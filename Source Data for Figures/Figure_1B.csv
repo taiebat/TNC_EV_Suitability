@@ -1,0 +1,2654 @@
+vmt,Clusters,num_drivers,cum_frequency
+31,Low Frequency Low Mileage,128,128
+31,All,128,128
+32,Low Frequency High Mileage,1,1
+32,Low Frequency Low Mileage,525,653
+32,All,526,654
+33,Low Frequency Low Mileage,924,1577
+33,All,924,1578
+34,High Frequency High Mileage,1,1
+34,Low Frequency Low Mileage,1341,2918
+34,All,1342,2920
+35,Ultra High Mileage,1,1
+35,Low Frequency High Mileage,1,2
+35,Low Frequency Low Mileage,1640,4558
+35,All,1642,4562
+36,Low Frequency Low Mileage,1887,6445
+36,All,1887,6449
+37,Low Frequency Low Mileage,2122,8567
+37,All,2122,8571
+38,Low Frequency High Mileage,2,4
+38,Low Frequency Low Mileage,2252,10819
+38,All,2254,10825
+39,Low Frequency Low Mileage,2435,13254
+39,All,2435,13260
+40,Low Frequency High Mileage,1,5
+40,Low Frequency Low Mileage,2598,15852
+40,All,2599,15859
+41,Low Frequency High Mileage,2,7
+41,Low Frequency Low Mileage,2830,18682
+41,All,2832,18691
+42,Low Frequency High Mileage,4,11
+42,Low Frequency Low Mileage,2836,21518
+42,All,2840,21531
+43,Ultra High Mileage,1,2
+43,High Frequency High Mileage,1,2
+43,Low Frequency High Mileage,5,16
+43,Low Frequency Low Mileage,2941,24459
+43,All,2948,24479
+44,Low Frequency High Mileage,1,17
+44,Low Frequency Low Mileage,3044,27503
+44,All,3045,27524
+45,Low Frequency High Mileage,3,20
+45,Low Frequency Low Mileage,3190,30693
+45,All,3193,30717
+46,High Frequency High Mileage,2,4
+46,Low Frequency High Mileage,4,24
+46,Low Frequency Low Mileage,3193,33886
+46,All,3199,33916
+47,Low Frequency High Mileage,3,27
+47,Low Frequency Low Mileage,3344,37230
+47,All,3347,37263
+48,Low Frequency High Mileage,7,34
+48,Low Frequency Low Mileage,3356,40586
+48,All,3363,40626
+49,Low Frequency Low Mileage,3461,44047
+49,All,3461,44087
+50,Low Frequency High Mileage,5,39
+50,Low Frequency Low Mileage,3615,47662
+50,All,3620,47707
+51,High Frequency High Mileage,1,5
+51,Low Frequency High Mileage,2,41
+51,Low Frequency Low Mileage,3693,51355
+51,All,3696,51403
+52,High Frequency High Mileage,1,6
+52,Low Frequency High Mileage,11,52
+52,Low Frequency Low Mileage,3765,55120
+52,All,3777,55180
+53,Low Frequency High Mileage,10,62
+53,Low Frequency Low Mileage,3750,58870
+53,All,3760,58940
+54,High Frequency High Mileage,1,7
+54,Low Frequency High Mileage,7,69
+54,Low Frequency Low Mileage,3818,62688
+54,All,3826,62766
+55,Low Frequency High Mileage,12,81
+55,Low Frequency Low Mileage,4115,66803
+55,All,4127,66893
+56,High Frequency High Mileage,1,8
+56,Low Frequency High Mileage,7,88
+56,Low Frequency Low Mileage,4016,70819
+56,All,4024,70917
+57,High Frequency High Mileage,2,10
+57,Low Frequency High Mileage,9,97
+57,Low Frequency Low Mileage,4092,74911
+57,All,4103,75020
+58,High Frequency High Mileage,3,13
+58,Low Frequency High Mileage,17,114
+58,Low Frequency Low Mileage,4123,79034
+58,All,4143,79163
+59,High Frequency High Mileage,1,14
+59,Low Frequency High Mileage,23,137
+59,Low Frequency Low Mileage,4092,83126
+59,All,4116,83279
+60,High Frequency High Mileage,2,16
+60,Low Frequency High Mileage,16,153
+60,Low Frequency Low Mileage,4264,87390
+60,All,4282,87561
+61,High Frequency High Mileage,4,20
+61,Low Frequency High Mileage,13,166
+61,Low Frequency Low Mileage,4308,91698
+61,All,4325,91886
+62,Low Frequency High Mileage,23,189
+62,Low Frequency Low Mileage,4409,96107
+62,All,4432,96318
+63,Low Frequency High Mileage,21,210
+63,Low Frequency Low Mileage,4381,100488
+63,All,4402,100720
+64,High Frequency High Mileage,2,22
+64,Low Frequency High Mileage,25,235
+64,Low Frequency Low Mileage,4517,105005
+64,All,4544,105264
+65,High Frequency High Mileage,3,25
+65,Low Frequency High Mileage,30,265
+65,Low Frequency Low Mileage,4556,109561
+65,All,4589,109853
+66,Ultra High Mileage,1,3
+66,High Frequency High Mileage,1,26
+66,Low Frequency High Mileage,38,303
+66,Low Frequency Low Mileage,4708,114269
+66,All,4748,114601
+67,Ultra High Mileage,1,4
+67,High Frequency High Mileage,1,27
+67,Low Frequency High Mileage,39,342
+67,Low Frequency Low Mileage,4739,119008
+67,All,4780,119381
+68,High Frequency High Mileage,3,30
+68,Low Frequency High Mileage,43,385
+68,Low Frequency Low Mileage,4780,123788
+68,All,4826,124207
+69,High Frequency High Mileage,2,32
+69,Low Frequency High Mileage,54,439
+69,Low Frequency Low Mileage,4799,128587
+69,All,4855,129062
+70,High Frequency High Mileage,5,37
+70,Low Frequency High Mileage,56,495
+70,Low Frequency Low Mileage,4843,133430
+70,All,4904,133966
+71,High Frequency High Mileage,3,40
+71,Low Frequency High Mileage,52,547
+71,Low Frequency Low Mileage,4899,138329
+71,All,4954,138920
+72,High Frequency High Mileage,4,44
+72,Low Frequency High Mileage,66,613
+72,Low Frequency Low Mileage,5016,143345
+72,All,5086,144006
+73,High Frequency High Mileage,2,46
+73,Low Frequency High Mileage,77,690
+73,Low Frequency Low Mileage,4906,148251
+73,All,4985,148991
+74,High Frequency High Mileage,11,57
+74,Low Frequency High Mileage,100,790
+74,Low Frequency Low Mileage,5117,153368
+74,All,5228,154219
+75,High Frequency High Mileage,9,66
+75,Low Frequency High Mileage,92,882
+75,Low Frequency Low Mileage,5234,158602
+75,All,5335,159554
+76,Ultra High Mileage,1,5
+76,High Frequency High Mileage,7,73
+76,Low Frequency High Mileage,125,1007
+76,Low Frequency Low Mileage,5253,163855
+76,All,5386,164940
+77,Ultra High Mileage,1,6
+77,High Frequency High Mileage,10,83
+77,Low Frequency High Mileage,123,1130
+77,Low Frequency Low Mileage,5265,169120
+77,All,5399,170339
+78,High Frequency High Mileage,15,98
+78,Low Frequency High Mileage,127,1257
+78,Low Frequency Low Mileage,5431,174551
+78,All,5573,175912
+79,High Frequency High Mileage,14,112
+79,Low Frequency High Mileage,145,1402
+79,Low Frequency Low Mileage,5401,179952
+79,All,5560,181472
+80,Ultra High Mileage,1,7
+80,High Frequency High Mileage,16,128
+80,Low Frequency High Mileage,150,1552
+80,Low Frequency Low Mileage,5472,185424
+80,All,5639,187111
+81,Ultra High Mileage,1,8
+81,High Frequency High Mileage,18,146
+81,Low Frequency High Mileage,176,1728
+81,Low Frequency Low Mileage,5541,190965
+81,All,5736,192847
+82,Ultra High Mileage,1,9
+82,High Frequency High Mileage,31,177
+82,Low Frequency High Mileage,188,1916
+82,Low Frequency Low Mileage,5728,196693
+82,All,5948,198795
+83,High Frequency High Mileage,36,213
+83,Low Frequency High Mileage,189,2105
+83,Low Frequency Low Mileage,5685,202378
+83,All,5910,204705
+84,High Frequency High Mileage,28,241
+84,Low Frequency High Mileage,221,2326
+84,Low Frequency Low Mileage,5721,208099
+84,All,5970,210675
+85,High Frequency High Mileage,35,276
+85,Low Frequency High Mileage,251,2577
+85,Low Frequency Low Mileage,5926,214025
+85,All,6212,216887
+86,High Frequency High Mileage,42,318
+86,Low Frequency High Mileage,286,2863
+86,Low Frequency Low Mileage,5976,220001
+86,All,6304,223191
+87,High Frequency High Mileage,51,369
+87,Low Frequency High Mileage,294,3157
+87,Low Frequency Low Mileage,5950,225951
+87,All,6295,229486
+88,High Frequency High Mileage,55,424
+88,Low Frequency High Mileage,296,3453
+88,Low Frequency Low Mileage,6227,232178
+88,All,6578,236064
+89,Ultra High Mileage,2,11
+89,High Frequency High Mileage,60,484
+89,Low Frequency High Mileage,355,3808
+89,Low Frequency Low Mileage,6187,238365
+89,All,6604,242668
+90,High Frequency High Mileage,90,574
+90,Low Frequency High Mileage,349,4157
+90,Low Frequency Low Mileage,6142,244507
+90,All,6581,249249
+91,Ultra High Mileage,1,12
+91,High Frequency High Mileage,86,660
+91,Low Frequency High Mileage,388,4545
+91,Low Frequency Low Mileage,6389,250896
+91,All,6864,256113
+92,Ultra High Mileage,2,14
+92,High Frequency High Mileage,108,768
+92,Low Frequency High Mileage,365,4910
+92,Low Frequency Low Mileage,6238,257134
+92,All,6713,262826
+93,Ultra High Mileage,3,17
+93,High Frequency High Mileage,107,875
+93,Low Frequency High Mileage,385,5295
+93,Low Frequency Low Mileage,6501,263635
+93,All,6996,269822
+94,Ultra High Mileage,1,18
+94,High Frequency High Mileage,130,1005
+94,Low Frequency High Mileage,426,5721
+94,Low Frequency Low Mileage,6524,270159
+94,All,7081,276903
+95,Ultra High Mileage,6,24
+95,High Frequency High Mileage,135,1140
+95,Low Frequency High Mileage,463,6184
+95,Low Frequency Low Mileage,6499,276658
+95,All,7103,284006
+96,Ultra High Mileage,3,27
+96,High Frequency High Mileage,161,1301
+96,Low Frequency High Mileage,468,6652
+96,Low Frequency Low Mileage,6707,283365
+96,All,7339,291345
+97,High Frequency High Mileage,175,1476
+97,Low Frequency High Mileage,546,7198
+97,Low Frequency Low Mileage,6854,290219
+97,All,7575,298920
+98,Ultra High Mileage,3,30
+98,High Frequency High Mileage,185,1661
+98,Low Frequency High Mileage,532,7730
+98,Low Frequency Low Mileage,6850,297069
+98,All,7570,306490
+99,Ultra High Mileage,5,35
+99,High Frequency High Mileage,250,1911
+99,Low Frequency High Mileage,571,8301
+99,Low Frequency Low Mileage,6675,303744
+99,All,7501,313991
+100,Ultra High Mileage,4,39
+100,High Frequency High Mileage,254,2165
+100,Low Frequency High Mileage,611,8912
+100,Low Frequency Low Mileage,6816,310560
+100,All,7685,321676
+101,Ultra High Mileage,6,45
+101,High Frequency High Mileage,270,2435
+101,Low Frequency High Mileage,589,9501
+101,Low Frequency Low Mileage,6985,317545
+101,All,7850,329526
+102,Ultra High Mileage,6,51
+102,High Frequency High Mileage,311,2746
+102,Low Frequency High Mileage,644,10145
+102,Low Frequency Low Mileage,6897,324442
+102,All,7858,337384
+103,Ultra High Mileage,2,53
+103,High Frequency High Mileage,308,3054
+103,Low Frequency High Mileage,649,10794
+103,Low Frequency Low Mileage,6891,331333
+103,All,7850,345234
+104,Ultra High Mileage,7,60
+104,High Frequency High Mileage,357,3411
+104,Low Frequency High Mileage,714,11508
+104,Low Frequency Low Mileage,7161,338494
+104,All,8239,353473
+105,Ultra High Mileage,5,65
+105,High Frequency High Mileage,342,3753
+105,Low Frequency High Mileage,739,12247
+105,Low Frequency Low Mileage,7111,345605
+105,All,8197,361670
+106,Ultra High Mileage,7,72
+106,High Frequency High Mileage,394,4147
+106,Low Frequency High Mileage,753,13000
+106,Low Frequency Low Mileage,7200,352805
+106,All,8354,370024
+107,Ultra High Mileage,8,80
+107,High Frequency High Mileage,427,4574
+107,Low Frequency High Mileage,788,13788
+107,Low Frequency Low Mileage,7416,360221
+107,All,8639,378663
+108,Ultra High Mileage,4,84
+108,High Frequency High Mileage,496,5070
+108,Low Frequency High Mileage,804,14592
+108,Low Frequency Low Mileage,7284,367505
+108,All,8588,387251
+109,Ultra High Mileage,3,87
+109,High Frequency High Mileage,469,5539
+109,Low Frequency High Mileage,846,15438
+109,Low Frequency Low Mileage,7402,374907
+109,All,8720,395971
+110,Ultra High Mileage,7,94
+110,High Frequency High Mileage,518,6057
+110,Low Frequency High Mileage,894,16332
+110,Low Frequency Low Mileage,7393,382300
+110,All,8812,404783
+111,Ultra High Mileage,10,104
+111,High Frequency High Mileage,568,6625
+111,Low Frequency High Mileage,942,17274
+111,Low Frequency Low Mileage,7501,389801
+111,All,9021,413804
+112,Ultra High Mileage,7,111
+112,High Frequency High Mileage,577,7202
+112,Low Frequency High Mileage,908,18182
+112,Low Frequency Low Mileage,7483,397284
+112,All,8975,422779
+113,Ultra High Mileage,10,121
+113,High Frequency High Mileage,560,7762
+113,Low Frequency High Mileage,977,19159
+113,Low Frequency Low Mileage,7463,404747
+113,All,9010,431789
+114,Ultra High Mileage,14,135
+114,High Frequency High Mileage,679,8441
+114,Low Frequency High Mileage,1019,20178
+114,Low Frequency Low Mileage,7498,412245
+114,All,9210,440999
+115,Ultra High Mileage,10,145
+115,High Frequency High Mileage,708,9149
+115,Low Frequency High Mileage,1017,21195
+115,Low Frequency Low Mileage,7573,419818
+115,All,9308,450307
+116,Ultra High Mileage,10,155
+116,High Frequency High Mileage,730,9879
+116,Low Frequency High Mileage,1093,22288
+116,Low Frequency Low Mileage,7578,427396
+116,All,9411,459718
+117,Ultra High Mileage,7,162
+117,High Frequency High Mileage,774,10653
+117,Low Frequency High Mileage,1089,23377
+117,Low Frequency Low Mileage,7528,434924
+117,All,9398,469116
+118,Ultra High Mileage,5,167
+118,High Frequency High Mileage,826,11479
+118,Low Frequency High Mileage,1089,24466
+118,Low Frequency Low Mileage,7506,442430
+118,All,9426,478542
+119,Ultra High Mileage,14,181
+119,High Frequency High Mileage,818,12297
+119,Low Frequency High Mileage,1242,25708
+119,Low Frequency Low Mileage,7508,449938
+119,All,9582,488124
+120,Ultra High Mileage,9,190
+120,High Frequency High Mileage,815,13112
+120,Low Frequency High Mileage,1250,26958
+120,Low Frequency Low Mileage,7551,457489
+120,All,9625,497749
+121,Ultra High Mileage,13,203
+121,High Frequency High Mileage,865,13977
+121,Low Frequency High Mileage,1193,28151
+121,Low Frequency Low Mileage,7506,464995
+121,All,9577,507326
+122,Ultra High Mileage,14,217
+122,High Frequency High Mileage,891,14868
+122,Low Frequency High Mileage,1319,29470
+122,Low Frequency Low Mileage,7570,472565
+122,All,9794,517120
+123,Ultra High Mileage,18,235
+123,High Frequency High Mileage,968,15836
+123,Low Frequency High Mileage,1379,30849
+123,Low Frequency Low Mileage,7528,480093
+123,All,9893,527013
+124,Ultra High Mileage,16,251
+124,High Frequency High Mileage,996,16832
+124,Low Frequency High Mileage,1323,32172
+124,Low Frequency Low Mileage,7476,487569
+124,All,9811,536824
+125,Ultra High Mileage,21,272
+125,High Frequency High Mileage,1038,17870
+125,Low Frequency High Mileage,1517,33689
+125,Low Frequency Low Mileage,7672,495241
+125,All,10248,547072
+126,Ultra High Mileage,20,292
+126,High Frequency High Mileage,1086,18956
+126,Low Frequency High Mileage,1424,35113
+126,Low Frequency Low Mileage,7554,502795
+126,All,10084,557156
+127,Ultra High Mileage,20,312
+127,High Frequency High Mileage,1149,20105
+127,Low Frequency High Mileage,1594,36707
+127,Low Frequency Low Mileage,7515,510310
+127,All,10278,567434
+128,Ultra High Mileage,22,334
+128,High Frequency High Mileage,1201,21306
+128,Low Frequency High Mileage,1578,38285
+128,Low Frequency Low Mileage,7431,517741
+128,All,10232,577666
+129,Ultra High Mileage,15,349
+129,High Frequency High Mileage,1204,22510
+129,Low Frequency High Mileage,1640,39925
+129,Low Frequency Low Mileage,7487,525228
+129,All,10346,588012
+130,Ultra High Mileage,23,372
+130,High Frequency High Mileage,1204,23714
+130,Low Frequency High Mileage,1579,41504
+130,Low Frequency Low Mileage,7310,532538
+130,All,10116,598128
+131,Ultra High Mileage,29,401
+131,High Frequency High Mileage,1277,24991
+131,Low Frequency High Mileage,1736,43240
+131,Low Frequency Low Mileage,7288,539826
+131,All,10330,608458
+132,Ultra High Mileage,28,429
+132,High Frequency High Mileage,1265,26256
+132,Low Frequency High Mileage,1865,45105
+132,Low Frequency Low Mileage,7128,546954
+132,All,10286,618744
+133,Ultra High Mileage,23,452
+133,High Frequency High Mileage,1364,27620
+133,Low Frequency High Mileage,1844,46949
+133,Low Frequency Low Mileage,7312,554266
+133,All,10543,629287
+134,Ultra High Mileage,24,476
+134,High Frequency High Mileage,1359,28979
+134,Low Frequency High Mileage,1925,48874
+134,Low Frequency Low Mileage,7235,561501
+134,All,10543,639830
+135,Ultra High Mileage,34,510
+135,High Frequency High Mileage,1400,30379
+135,Low Frequency High Mileage,2012,50886
+135,Low Frequency Low Mileage,7107,568608
+135,All,10553,650383
+136,Ultra High Mileage,38,548
+136,High Frequency High Mileage,1404,31783
+136,Low Frequency High Mileage,1985,52871
+136,Low Frequency Low Mileage,7105,575713
+136,All,10532,660915
+137,Ultra High Mileage,38,586
+137,High Frequency High Mileage,1499,33282
+137,Low Frequency High Mileage,2176,55047
+137,Low Frequency Low Mileage,7042,582755
+137,All,10755,671670
+138,Ultra High Mileage,34,620
+138,High Frequency High Mileage,1458,34740
+138,Low Frequency High Mileage,2173,57220
+138,Low Frequency Low Mileage,6923,589678
+138,All,10588,682258
+139,Ultra High Mileage,32,652
+139,High Frequency High Mileage,1470,36210
+139,Low Frequency High Mileage,2273,59493
+139,Low Frequency Low Mileage,6872,596550
+139,All,10647,692905
+140,Ultra High Mileage,34,686
+140,High Frequency High Mileage,1591,37801
+140,Low Frequency High Mileage,2298,61791
+140,Low Frequency Low Mileage,6704,603254
+140,All,10627,703532
+141,Ultra High Mileage,47,733
+141,High Frequency High Mileage,1657,39458
+141,Low Frequency High Mileage,2380,64171
+141,Low Frequency Low Mileage,6567,609821
+141,All,10651,714183
+142,Ultra High Mileage,43,776
+142,High Frequency High Mileage,1705,41163
+142,Low Frequency High Mileage,2491,66662
+142,Low Frequency Low Mileage,6590,616411
+142,All,10829,725012
+143,Ultra High Mileage,34,810
+143,High Frequency High Mileage,1661,42824
+143,Low Frequency High Mileage,2411,69073
+143,Low Frequency Low Mileage,6515,622926
+143,All,10621,735633
+144,Ultra High Mileage,41,851
+144,High Frequency High Mileage,1614,44438
+144,Low Frequency High Mileage,2536,71609
+144,Low Frequency Low Mileage,6298,629224
+144,All,10489,746122
+145,Ultra High Mileage,37,888
+145,High Frequency High Mileage,1696,46134
+145,Low Frequency High Mileage,2671,74280
+145,Low Frequency Low Mileage,6213,635437
+145,All,10617,756739
+146,Ultra High Mileage,48,936
+146,High Frequency High Mileage,1821,47955
+146,Low Frequency High Mileage,2725,77005
+146,Low Frequency Low Mileage,6149,641586
+146,All,10743,767482
+147,Ultra High Mileage,58,994
+147,High Frequency High Mileage,1793,49748
+147,Low Frequency High Mileage,2675,79680
+147,Low Frequency Low Mileage,6073,647659
+147,All,10599,778081
+148,Ultra High Mileage,52,1046
+148,High Frequency High Mileage,1811,51559
+148,Low Frequency High Mileage,2856,82536
+148,Low Frequency Low Mileage,5802,653461
+148,All,10521,788602
+149,Ultra High Mileage,48,1094
+149,High Frequency High Mileage,1827,53386
+149,Low Frequency High Mileage,2895,85431
+149,Low Frequency Low Mileage,5959,659420
+149,All,10729,799331
+150,Ultra High Mileage,54,1148
+150,High Frequency High Mileage,1827,55213
+150,Low Frequency High Mileage,2915,88346
+150,Low Frequency Low Mileage,5575,664995
+150,All,10371,809702
+151,Ultra High Mileage,48,1196
+151,High Frequency High Mileage,1920,57133
+151,Low Frequency High Mileage,3088,91434
+151,Low Frequency Low Mileage,5743,670738
+151,All,10799,820501
+152,Ultra High Mileage,57,1253
+152,High Frequency High Mileage,1858,58991
+152,Low Frequency High Mileage,3144,94578
+152,Low Frequency Low Mileage,5433,676171
+152,All,10492,830993
+153,Ultra High Mileage,63,1316
+153,High Frequency High Mileage,1891,60882
+153,Low Frequency High Mileage,3164,97742
+153,Low Frequency Low Mileage,5532,681703
+153,All,10650,841643
+154,Ultra High Mileage,65,1381
+154,High Frequency High Mileage,1942,62824
+154,Low Frequency High Mileage,3211,100953
+154,Low Frequency Low Mileage,5415,687118
+154,All,10633,852276
+155,Ultra High Mileage,77,1458
+155,High Frequency High Mileage,1943,64767
+155,Low Frequency High Mileage,3259,104212
+155,Low Frequency Low Mileage,5252,692370
+155,All,10531,862807
+156,Ultra High Mileage,71,1529
+156,High Frequency High Mileage,2029,66796
+156,Low Frequency High Mileage,3288,107500
+156,Low Frequency Low Mileage,5202,697572
+156,All,10590,873397
+157,Ultra High Mileage,92,1621
+157,High Frequency High Mileage,1926,68722
+157,Low Frequency High Mileage,3499,110999
+157,Low Frequency Low Mileage,5000,702572
+157,All,10517,883914
+158,Ultra High Mileage,88,1709
+158,High Frequency High Mileage,1921,70643
+158,Low Frequency High Mileage,3478,114477
+158,Low Frequency Low Mileage,4850,707422
+158,All,10337,894251
+159,Ultra High Mileage,89,1798
+159,High Frequency High Mileage,1988,72631
+159,Low Frequency High Mileage,3675,118152
+159,Low Frequency Low Mileage,4833,712255
+159,All,10585,904836
+160,Ultra High Mileage,101,1899
+160,High Frequency High Mileage,1979,74610
+160,Low Frequency High Mileage,3671,121823
+160,Low Frequency Low Mileage,4488,716743
+160,All,10239,915075
+161,Ultra High Mileage,97,1996
+161,High Frequency High Mileage,2035,76645
+161,Low Frequency High Mileage,3802,125625
+161,Low Frequency Low Mileage,4489,721232
+161,All,10423,925498
+162,Ultra High Mileage,96,2092
+162,High Frequency High Mileage,2114,78759
+162,Low Frequency High Mileage,3724,129349
+162,Low Frequency Low Mileage,4380,725612
+162,All,10314,935812
+163,Ultra High Mileage,79,2171
+163,High Frequency High Mileage,2015,80774
+163,Low Frequency High Mileage,3717,133066
+163,Low Frequency Low Mileage,4292,729904
+163,All,10103,945915
+164,Ultra High Mileage,123,2294
+164,High Frequency High Mileage,2073,82847
+164,Low Frequency High Mileage,3865,136931
+164,Low Frequency Low Mileage,4179,734083
+164,All,10240,956155
+165,Ultra High Mileage,88,2382
+165,High Frequency High Mileage,1979,84826
+165,Low Frequency High Mileage,3913,140844
+165,Low Frequency Low Mileage,4150,738233
+165,All,10130,966285
+166,Ultra High Mileage,117,2499
+166,High Frequency High Mileage,2055,86881
+166,Low Frequency High Mileage,4045,144889
+166,Low Frequency Low Mileage,3909,742142
+166,All,10126,976411
+167,Ultra High Mileage,139,2638
+167,High Frequency High Mileage,2001,88882
+167,Low Frequency High Mileage,4003,148892
+167,Low Frequency Low Mileage,3917,746059
+167,All,10060,986471
+168,Ultra High Mileage,112,2750
+168,High Frequency High Mileage,2056,90938
+168,Low Frequency High Mileage,4058,152950
+168,Low Frequency Low Mileage,3701,749760
+168,All,9927,996398
+169,Ultra High Mileage,126,2876
+169,High Frequency High Mileage,2142,93080
+169,Low Frequency High Mileage,4166,157116
+169,Low Frequency Low Mileage,3507,753267
+169,All,9941,1006339
+170,Ultra High Mileage,138,3014
+170,High Frequency High Mileage,2113,95193
+170,Low Frequency High Mileage,4149,161265
+170,Low Frequency Low Mileage,3586,756853
+170,All,9986,1016325
+171,Ultra High Mileage,135,3149
+171,High Frequency High Mileage,2027,97220
+171,Low Frequency High Mileage,4120,165385
+171,Low Frequency Low Mileage,3409,760262
+171,All,9691,1026016
+172,Ultra High Mileage,142,3291
+172,High Frequency High Mileage,2069,99289
+172,Low Frequency High Mileage,4294,169679
+172,Low Frequency Low Mileage,3202,763464
+172,All,9707,1035723
+173,Ultra High Mileage,138,3429
+173,High Frequency High Mileage,2103,101392
+173,Low Frequency High Mileage,4279,173958
+173,Low Frequency Low Mileage,3250,766714
+173,All,9770,1045493
+174,Ultra High Mileage,180,3609
+174,High Frequency High Mileage,2127,103519
+174,Low Frequency High Mileage,4495,178453
+174,Low Frequency Low Mileage,3212,769926
+174,All,10014,1055507
+175,Ultra High Mileage,176,3785
+175,High Frequency High Mileage,2100,105619
+175,Low Frequency High Mileage,4429,182882
+175,Low Frequency Low Mileage,2946,772872
+175,All,9651,1065158
+176,Ultra High Mileage,170,3955
+176,High Frequency High Mileage,2142,107761
+176,Low Frequency High Mileage,4457,187339
+176,Low Frequency Low Mileage,2963,775835
+176,All,9732,1074890
+177,Ultra High Mileage,165,4120
+177,High Frequency High Mileage,2079,109840
+177,Low Frequency High Mileage,4439,191778
+177,Low Frequency Low Mileage,2776,778611
+177,All,9459,1084349
+178,Ultra High Mileage,178,4298
+178,High Frequency High Mileage,2106,111946
+178,Low Frequency High Mileage,4487,196265
+178,Low Frequency Low Mileage,2636,781247
+178,All,9407,1093756
+179,Ultra High Mileage,199,4497
+179,High Frequency High Mileage,2061,114007
+179,Low Frequency High Mileage,4547,200812
+179,Low Frequency Low Mileage,2580,783827
+179,All,9387,1103143
+180,Ultra High Mileage,186,4683
+180,High Frequency High Mileage,2068,116075
+180,Low Frequency High Mileage,4584,205396
+180,Low Frequency Low Mileage,2483,786310
+180,All,9321,1112464
+181,Ultra High Mileage,210,4893
+181,High Frequency High Mileage,2146,118221
+181,Low Frequency High Mileage,4504,209900
+181,Low Frequency Low Mileage,2454,788764
+181,All,9314,1121778
+182,Ultra High Mileage,222,5115
+182,High Frequency High Mileage,2009,120230
+182,Low Frequency High Mileage,4628,214528
+182,Low Frequency Low Mileage,2466,791230
+182,All,9325,1131103
+183,Ultra High Mileage,230,5345
+183,High Frequency High Mileage,2049,122279
+183,Low Frequency High Mileage,4474,219002
+183,Low Frequency Low Mileage,2372,793602
+183,All,9125,1140228
+184,Ultra High Mileage,233,5578
+184,High Frequency High Mileage,1954,124233
+184,Low Frequency High Mileage,4435,223437
+184,Low Frequency Low Mileage,2144,795746
+184,All,8766,1148994
+185,Ultra High Mileage,231,5809
+185,High Frequency High Mileage,2011,126244
+185,Low Frequency High Mileage,4556,227993
+185,Low Frequency Low Mileage,2128,797874
+185,All,8926,1157920
+186,Ultra High Mileage,242,6051
+186,High Frequency High Mileage,2087,128331
+186,Low Frequency High Mileage,4653,232646
+186,Low Frequency Low Mileage,2026,799900
+186,All,9008,1166928
+187,Ultra High Mileage,247,6298
+187,High Frequency High Mileage,1966,130297
+187,Low Frequency High Mileage,4655,237301
+187,Low Frequency Low Mileage,1958,801858
+187,All,8826,1175754
+188,Ultra High Mileage,246,6544
+188,High Frequency High Mileage,2005,132302
+188,Low Frequency High Mileage,4676,241977
+188,Low Frequency Low Mileage,1855,803713
+188,All,8782,1184536
+189,Ultra High Mileage,245,6789
+189,High Frequency High Mileage,1951,134253
+189,Low Frequency High Mileage,4672,246649
+189,Low Frequency Low Mileage,1847,805560
+189,All,8715,1193251
+190,Ultra High Mileage,263,7052
+190,High Frequency High Mileage,2024,136277
+190,Low Frequency High Mileage,4645,251294
+190,Low Frequency Low Mileage,1677,807237
+190,All,8609,1201860
+191,Ultra High Mileage,263,7315
+191,High Frequency High Mileage,1894,138171
+191,Low Frequency High Mileage,4539,255833
+191,Low Frequency Low Mileage,1678,808915
+191,All,8374,1210234
+192,Ultra High Mileage,314,7629
+192,High Frequency High Mileage,1997,140168
+192,Low Frequency High Mileage,4547,260380
+192,Low Frequency Low Mileage,1623,810538
+192,All,8481,1218715
+193,Ultra High Mileage,311,7940
+193,High Frequency High Mileage,1931,142099
+193,Low Frequency High Mileage,4516,264896
+193,Low Frequency Low Mileage,1561,812099
+193,All,8319,1227034
+194,Ultra High Mileage,309,8249
+194,High Frequency High Mileage,1986,144085
+194,Low Frequency High Mileage,4605,269501
+194,Low Frequency Low Mileage,1394,813493
+194,All,8294,1235328
+195,Ultra High Mileage,346,8595
+195,High Frequency High Mileage,1861,145946
+195,Low Frequency High Mileage,4567,274068
+195,Low Frequency Low Mileage,1434,814927
+195,All,8208,1243536
+196,Ultra High Mileage,357,8952
+196,High Frequency High Mileage,1924,147870
+196,Low Frequency High Mileage,4519,278587
+196,Low Frequency Low Mileage,1370,816297
+196,All,8170,1251706
+197,Ultra High Mileage,325,9277
+197,High Frequency High Mileage,1950,149820
+197,Low Frequency High Mileage,4591,283178
+197,Low Frequency Low Mileage,1317,817614
+197,All,8183,1259889
+198,Ultra High Mileage,370,9647
+198,High Frequency High Mileage,1882,151702
+198,Low Frequency High Mileage,4470,287648
+198,Low Frequency Low Mileage,1241,818855
+198,All,7963,1267852
+199,Ultra High Mileage,347,9994
+199,High Frequency High Mileage,1828,153530
+199,Low Frequency High Mileage,4503,292151
+199,Low Frequency Low Mileage,1187,820042
+199,All,7865,1275717
+200,Ultra High Mileage,381,10375
+200,High Frequency High Mileage,1835,155365
+200,Low Frequency High Mileage,4511,296662
+200,Low Frequency Low Mileage,1173,821215
+200,All,7900,1283617
+201,Ultra High Mileage,389,10764
+201,High Frequency High Mileage,1793,157158
+201,Low Frequency High Mileage,4428,301090
+201,Low Frequency Low Mileage,1078,822293
+201,All,7688,1291305
+202,Ultra High Mileage,395,11159
+202,High Frequency High Mileage,1831,158989
+202,Low Frequency High Mileage,4335,305425
+202,Low Frequency Low Mileage,1121,823414
+202,All,7682,1298987
+203,Ultra High Mileage,398,11557
+203,High Frequency High Mileage,1749,160738
+203,Low Frequency High Mileage,4533,309958
+203,Low Frequency Low Mileage,1046,824460
+203,All,7726,1306713
+204,Ultra High Mileage,424,11981
+204,High Frequency High Mileage,1794,162532
+204,Low Frequency High Mileage,4299,314257
+204,Low Frequency Low Mileage,992,825452
+204,All,7509,1314222
+205,Ultra High Mileage,417,12398
+205,High Frequency High Mileage,1710,164242
+205,Low Frequency High Mileage,4382,318639
+205,Low Frequency Low Mileage,882,826334
+205,All,7391,1321613
+206,Ultra High Mileage,478,12876
+206,High Frequency High Mileage,1691,165933
+206,Low Frequency High Mileage,4305,322944
+206,Low Frequency Low Mileage,887,827221
+206,All,7361,1328974
+207,Ultra High Mileage,468,13344
+207,High Frequency High Mileage,1649,167582
+207,Low Frequency High Mileage,4337,327281
+207,Low Frequency Low Mileage,908,828129
+207,All,7362,1336336
+208,Ultra High Mileage,535,13879
+208,High Frequency High Mileage,1726,169308
+208,Low Frequency High Mileage,4209,331490
+208,Low Frequency Low Mileage,845,828974
+208,All,7315,1343651
+209,Ultra High Mileage,528,14407
+209,High Frequency High Mileage,1700,171008
+209,Low Frequency High Mileage,4190,335680
+209,Low Frequency Low Mileage,759,829733
+209,All,7177,1350828
+210,Ultra High Mileage,489,14896
+210,High Frequency High Mileage,1652,172660
+210,Low Frequency High Mileage,4150,339830
+210,Low Frequency Low Mileage,759,830492
+210,All,7050,1357878
+211,Ultra High Mileage,476,15372
+211,High Frequency High Mileage,1669,174329
+211,Low Frequency High Mileage,4065,343895
+211,Low Frequency Low Mileage,738,831230
+211,All,6948,1364826
+212,Ultra High Mileage,523,15895
+212,High Frequency High Mileage,1585,175914
+212,Low Frequency High Mileage,4023,347918
+212,Low Frequency Low Mileage,648,831878
+212,All,6779,1371605
+213,Ultra High Mileage,599,16494
+213,High Frequency High Mileage,1526,177440
+213,Low Frequency High Mileage,4185,352103
+213,Low Frequency Low Mileage,699,832577
+213,All,7009,1378614
+214,Ultra High Mileage,564,17058
+214,High Frequency High Mileage,1485,178925
+214,Low Frequency High Mileage,3958,356061
+214,Low Frequency Low Mileage,656,833233
+214,All,6663,1385277
+215,Ultra High Mileage,563,17621
+215,High Frequency High Mileage,1521,180446
+215,Low Frequency High Mileage,3923,359984
+215,Low Frequency Low Mileage,579,833812
+215,All,6586,1391863
+216,Ultra High Mileage,551,18172
+216,High Frequency High Mileage,1522,181968
+216,Low Frequency High Mileage,3909,363893
+216,Low Frequency Low Mileage,640,834452
+216,All,6622,1398485
+217,Ultra High Mileage,623,18795
+217,High Frequency High Mileage,1414,183382
+217,Low Frequency High Mileage,3853,367746
+217,Low Frequency Low Mileage,575,835027
+217,All,6465,1404950
+218,Ultra High Mileage,638,19433
+218,High Frequency High Mileage,1456,184838
+218,Low Frequency High Mileage,3786,371532
+218,Low Frequency Low Mileage,555,835582
+218,All,6435,1411385
+219,Ultra High Mileage,619,20052
+219,High Frequency High Mileage,1478,186316
+219,Low Frequency High Mileage,3854,375386
+219,Low Frequency Low Mileage,560,836142
+219,All,6511,1417896
+220,Ultra High Mileage,632,20684
+220,High Frequency High Mileage,1418,187734
+220,Low Frequency High Mileage,3725,379111
+220,Low Frequency Low Mileage,492,836634
+220,All,6267,1424163
+221,Ultra High Mileage,650,21334
+221,High Frequency High Mileage,1445,189179
+221,Low Frequency High Mileage,3792,382903
+221,Low Frequency Low Mileage,462,837096
+221,All,6349,1430512
+222,Ultra High Mileage,635,21969
+222,High Frequency High Mileage,1354,190533
+222,Low Frequency High Mileage,3734,386637
+222,Low Frequency Low Mileage,447,837543
+222,All,6170,1436682
+223,Ultra High Mileage,659,22628
+223,High Frequency High Mileage,1325,191858
+223,Low Frequency High Mileage,3551,390188
+223,Low Frequency Low Mileage,456,837999
+223,All,5991,1442673
+224,Ultra High Mileage,641,23269
+224,High Frequency High Mileage,1355,193213
+224,Low Frequency High Mileage,3567,393755
+224,Low Frequency Low Mileage,423,838422
+224,All,5986,1448659
+225,Ultra High Mileage,686,23955
+225,High Frequency High Mileage,1370,194583
+225,Low Frequency High Mileage,3622,397377
+225,Low Frequency Low Mileage,404,838826
+225,All,6082,1454741
+226,Ultra High Mileage,705,24660
+226,High Frequency High Mileage,1316,195899
+226,Low Frequency High Mileage,3475,400852
+226,Low Frequency Low Mileage,396,839222
+226,All,5892,1460633
+227,Ultra High Mileage,644,25304
+227,High Frequency High Mileage,1332,197231
+227,Low Frequency High Mileage,3468,404320
+227,Low Frequency Low Mileage,368,839590
+227,All,5812,1466445
+228,Ultra High Mileage,782,26086
+228,High Frequency High Mileage,1274,198505
+228,Low Frequency High Mileage,3371,407691
+228,Low Frequency Low Mileage,360,839950
+228,All,5787,1472232
+229,Ultra High Mileage,765,26851
+229,High Frequency High Mileage,1256,199761
+229,Low Frequency High Mileage,3305,410996
+229,Low Frequency Low Mileage,364,840314
+229,All,5690,1477922
+230,Ultra High Mileage,736,27587
+230,High Frequency High Mileage,1223,200984
+230,Low Frequency High Mileage,3263,414259
+230,Low Frequency Low Mileage,342,840656
+230,All,5564,1483486
+231,Ultra High Mileage,756,28343
+231,High Frequency High Mileage,1222,202206
+231,Low Frequency High Mileage,3277,417536
+231,Low Frequency Low Mileage,350,841006
+231,All,5605,1489091
+232,Ultra High Mileage,760,29103
+232,High Frequency High Mileage,1121,203327
+232,Low Frequency High Mileage,3199,420735
+232,Low Frequency Low Mileage,322,841328
+232,All,5402,1494493
+233,Ultra High Mileage,792,29895
+233,High Frequency High Mileage,1186,204513
+233,Low Frequency High Mileage,3151,423886
+233,Low Frequency Low Mileage,273,841601
+233,All,5402,1499895
+234,Ultra High Mileage,871,30766
+234,High Frequency High Mileage,1201,205714
+234,Low Frequency High Mileage,3145,427031
+234,Low Frequency Low Mileage,262,841863
+234,All,5479,1505374
+235,Ultra High Mileage,818,31584
+235,High Frequency High Mileage,1057,206771
+235,Low Frequency High Mileage,2994,430025
+235,Low Frequency Low Mileage,273,842136
+235,All,5142,1510516
+236,Ultra High Mileage,837,32421
+236,High Frequency High Mileage,1116,207887
+236,Low Frequency High Mileage,3017,433042
+236,Low Frequency Low Mileage,231,842367
+236,All,5201,1515717
+237,Ultra High Mileage,836,33257
+237,High Frequency High Mileage,1100,208987
+237,Low Frequency High Mileage,2927,435969
+237,Low Frequency Low Mileage,253,842620
+237,All,5116,1520833
+238,Ultra High Mileage,829,34086
+238,High Frequency High Mileage,1059,210046
+238,Low Frequency High Mileage,2850,438819
+238,Low Frequency Low Mileage,226,842846
+238,All,4964,1525797
+239,Ultra High Mileage,877,34963
+239,High Frequency High Mileage,1048,211094
+239,Low Frequency High Mileage,2846,441665
+239,Low Frequency Low Mileage,253,843099
+239,All,5024,1530821
+240,Ultra High Mileage,906,35869
+240,High Frequency High Mileage,1012,212106
+240,Low Frequency High Mileage,2804,444469
+240,Low Frequency Low Mileage,245,843344
+240,All,4967,1535788
+241,Ultra High Mileage,886,36755
+241,High Frequency High Mileage,1009,213115
+241,Low Frequency High Mileage,2796,447265
+241,Low Frequency Low Mileage,223,843567
+241,All,4914,1540702
+242,Ultra High Mileage,916,37671
+242,High Frequency High Mileage,980,214095
+242,Low Frequency High Mileage,2724,449989
+242,Low Frequency Low Mileage,210,843777
+242,All,4830,1545532
+243,Ultra High Mileage,887,38558
+243,High Frequency High Mileage,955,215050
+243,Low Frequency High Mileage,2672,452661
+243,Low Frequency Low Mileage,217,843994
+243,All,4731,1550263
+244,Ultra High Mileage,902,39460
+244,High Frequency High Mileage,920,215970
+244,Low Frequency High Mileage,2617,455278
+244,Low Frequency Low Mileage,196,844190
+244,All,4635,1554898
+245,Ultra High Mileage,948,40408
+245,High Frequency High Mileage,938,216908
+245,Low Frequency High Mileage,2502,457780
+245,Low Frequency Low Mileage,205,844395
+245,All,4593,1559491
+246,Ultra High Mileage,953,41361
+246,High Frequency High Mileage,913,217821
+246,Low Frequency High Mileage,2531,460311
+246,Low Frequency Low Mileage,169,844564
+246,All,4566,1564057
+247,Ultra High Mileage,884,42245
+247,High Frequency High Mileage,858,218679
+247,Low Frequency High Mileage,2474,462785
+247,Low Frequency Low Mileage,162,844726
+247,All,4378,1568435
+248,Ultra High Mileage,955,43200
+248,High Frequency High Mileage,858,219537
+248,Low Frequency High Mileage,2376,465161
+248,Low Frequency Low Mileage,157,844883
+248,All,4346,1572781
+249,Ultra High Mileage,978,44178
+249,High Frequency High Mileage,874,220411
+249,Low Frequency High Mileage,2402,467563
+249,Low Frequency Low Mileage,154,845037
+249,All,4408,1577189
+250,Ultra High Mileage,938,45116
+250,High Frequency High Mileage,797,221208
+250,Low Frequency High Mileage,2314,469877
+250,Low Frequency Low Mileage,151,845188
+250,All,4200,1581389
+251,Ultra High Mileage,995,46111
+251,High Frequency High Mileage,790,221998
+251,Low Frequency High Mileage,2354,472231
+251,Low Frequency Low Mileage,133,845321
+251,All,4272,1585661
+252,Ultra High Mileage,997,47108
+252,High Frequency High Mileage,807,222805
+252,Low Frequency High Mileage,2311,474542
+252,Low Frequency Low Mileage,145,845466
+252,All,4260,1589921
+253,Ultra High Mileage,1023,48131
+253,High Frequency High Mileage,733,223538
+253,Low Frequency High Mileage,2244,476786
+253,Low Frequency Low Mileage,131,845597
+253,All,4131,1594052
+254,Ultra High Mileage,1006,49137
+254,High Frequency High Mileage,771,224309
+254,Low Frequency High Mileage,2223,479009
+254,Low Frequency Low Mileage,129,845726
+254,All,4129,1598181
+255,Ultra High Mileage,1053,50190
+255,High Frequency High Mileage,709,225018
+255,Low Frequency High Mileage,2152,481161
+255,Low Frequency Low Mileage,113,845839
+255,All,4027,1602208
+256,Ultra High Mileage,1009,51199
+256,High Frequency High Mileage,723,225741
+256,Low Frequency High Mileage,2025,483186
+256,Low Frequency Low Mileage,103,845942
+256,All,3860,1606068
+257,Ultra High Mileage,1036,52235
+257,High Frequency High Mileage,713,226454
+257,Low Frequency High Mileage,1979,485165
+257,Low Frequency Low Mileage,108,846050
+257,All,3836,1609904
+258,Ultra High Mileage,1005,53240
+258,High Frequency High Mileage,627,227081
+258,Low Frequency High Mileage,2011,487176
+258,Low Frequency Low Mileage,111,846161
+258,All,3754,1613658
+259,Ultra High Mileage,1052,54292
+259,High Frequency High Mileage,674,227755
+259,Low Frequency High Mileage,1951,489127
+259,Low Frequency Low Mileage,83,846244
+259,All,3760,1617418
+260,Ultra High Mileage,1040,55332
+260,High Frequency High Mileage,615,228370
+260,Low Frequency High Mileage,1953,491080
+260,Low Frequency Low Mileage,95,846339
+260,All,3703,1621121
+261,Ultra High Mileage,1025,56357
+261,High Frequency High Mileage,654,229024
+261,Low Frequency High Mileage,1920,493000
+261,Low Frequency Low Mileage,97,846436
+261,All,3696,1624817
+262,Ultra High Mileage,1026,57383
+262,High Frequency High Mileage,643,229667
+262,Low Frequency High Mileage,1799,494799
+262,Low Frequency Low Mileage,79,846515
+262,All,3547,1628364
+263,Ultra High Mileage,1044,58427
+263,High Frequency High Mileage,621,230288
+263,Low Frequency High Mileage,1794,496593
+263,Low Frequency Low Mileage,88,846603
+263,All,3547,1631911
+264,Ultra High Mileage,1039,59466
+264,High Frequency High Mileage,579,230867
+264,Low Frequency High Mileage,1745,498338
+264,Low Frequency Low Mileage,81,846684
+264,All,3444,1635355
+265,Ultra High Mileage,1034,60500
+265,High Frequency High Mileage,596,231463
+265,Low Frequency High Mileage,1727,500065
+265,Low Frequency Low Mileage,80,846764
+265,All,3437,1638792
+266,Ultra High Mileage,1121,61621
+266,High Frequency High Mileage,554,232017
+266,Low Frequency High Mileage,1653,501718
+266,Low Frequency Low Mileage,77,846841
+266,All,3405,1642197
+267,Ultra High Mileage,1124,62745
+267,High Frequency High Mileage,561,232578
+267,Low Frequency High Mileage,1671,503389
+267,Low Frequency Low Mileage,84,846925
+267,All,3440,1645637
+268,Ultra High Mileage,1074,63819
+268,High Frequency High Mileage,536,233114
+268,Low Frequency High Mileage,1617,505006
+268,Low Frequency Low Mileage,71,846996
+268,All,3298,1648935
+269,Ultra High Mileage,1063,64882
+269,High Frequency High Mileage,536,233650
+269,Low Frequency High Mileage,1578,506584
+269,Low Frequency Low Mileage,49,847045
+269,All,3226,1652161
+270,Ultra High Mileage,1092,65974
+270,High Frequency High Mileage,552,234202
+270,Low Frequency High Mileage,1544,508128
+270,Low Frequency Low Mileage,71,847116
+270,All,3259,1655420
+271,Ultra High Mileage,1102,67076
+271,High Frequency High Mileage,512,234714
+271,Low Frequency High Mileage,1563,509691
+271,Low Frequency Low Mileage,64,847180
+271,All,3241,1658661
+272,Ultra High Mileage,1052,68128
+272,High Frequency High Mileage,494,235208
+272,Low Frequency High Mileage,1489,511180
+272,Low Frequency Low Mileage,60,847240
+272,All,3095,1661756
+273,Ultra High Mileage,1077,69205
+273,High Frequency High Mileage,444,235652
+273,Low Frequency High Mileage,1487,512667
+273,Low Frequency Low Mileage,58,847298
+273,All,3066,1664822
+274,Ultra High Mileage,1088,70293
+274,High Frequency High Mileage,441,236093
+274,Low Frequency High Mileage,1417,514084
+274,Low Frequency Low Mileage,45,847343
+274,All,2991,1667813
+275,Ultra High Mileage,1145,71438
+275,High Frequency High Mileage,444,236537
+275,Low Frequency High Mileage,1344,515428
+275,Low Frequency Low Mileage,45,847388
+275,All,2978,1670791
+276,Ultra High Mileage,1066,72504
+276,High Frequency High Mileage,426,236963
+276,Low Frequency High Mileage,1340,516768
+276,Low Frequency Low Mileage,53,847441
+276,All,2885,1673676
+277,Ultra High Mileage,1106,73610
+277,High Frequency High Mileage,426,237389
+277,Low Frequency High Mileage,1287,518055
+277,Low Frequency Low Mileage,59,847500
+277,All,2878,1676554
+278,Ultra High Mileage,1156,74766
+278,High Frequency High Mileage,383,237772
+278,Low Frequency High Mileage,1297,519352
+278,Low Frequency Low Mileage,59,847559
+278,All,2895,1679449
+279,Ultra High Mileage,1106,75872
+279,High Frequency High Mileage,411,238183
+279,Low Frequency High Mileage,1227,520579
+279,Low Frequency Low Mileage,47,847606
+279,All,2791,1682240
+280,Ultra High Mileage,1096,76968
+280,High Frequency High Mileage,371,238554
+280,Low Frequency High Mileage,1190,521769
+280,Low Frequency Low Mileage,42,847648
+280,All,2699,1684939
+281,Ultra High Mileage,1089,78057
+281,High Frequency High Mileage,395,238949
+281,Low Frequency High Mileage,1156,522925
+281,Low Frequency Low Mileage,49,847697
+281,All,2689,1687628
+282,Ultra High Mileage,1054,79111
+282,High Frequency High Mileage,370,239319
+282,Low Frequency High Mileage,1130,524055
+282,Low Frequency Low Mileage,48,847745
+282,All,2602,1690230
+283,Ultra High Mileage,1104,80215
+283,High Frequency High Mileage,338,239657
+283,Low Frequency High Mileage,1114,525169
+283,Low Frequency Low Mileage,39,847784
+283,All,2595,1692825
+284,Ultra High Mileage,1112,81327
+284,High Frequency High Mileage,329,239986
+284,Low Frequency High Mileage,1074,526243
+284,Low Frequency Low Mileage,44,847828
+284,All,2559,1695384
+285,Ultra High Mileage,1062,82389
+285,High Frequency High Mileage,339,240325
+285,Low Frequency High Mileage,1065,527308
+285,Low Frequency Low Mileage,37,847865
+285,All,2503,1697887
+286,Ultra High Mileage,1080,83469
+286,High Frequency High Mileage,317,240642
+286,Low Frequency High Mileage,1043,528351
+286,Low Frequency Low Mileage,36,847901
+286,All,2476,1700363
+287,Ultra High Mileage,1067,84536
+287,High Frequency High Mileage,316,240958
+287,Low Frequency High Mileage,1038,529389
+287,Low Frequency Low Mileage,37,847938
+287,All,2458,1702821
+288,Ultra High Mileage,1080,85616
+288,High Frequency High Mileage,297,241255
+288,Low Frequency High Mileage,964,530353
+288,Low Frequency Low Mileage,36,847974
+288,All,2377,1705198
+289,Ultra High Mileage,1102,86718
+289,High Frequency High Mileage,287,241542
+289,Low Frequency High Mileage,969,531322
+289,Low Frequency Low Mileage,38,848012
+289,All,2396,1707594
+290,Ultra High Mileage,1045,87763
+290,High Frequency High Mileage,271,241813
+290,Low Frequency High Mileage,940,532262
+290,Low Frequency Low Mileage,32,848044
+290,All,2288,1709882
+291,Ultra High Mileage,1014,88777
+291,High Frequency High Mileage,246,242059
+291,Low Frequency High Mileage,936,533198
+291,Low Frequency Low Mileage,33,848077
+291,All,2229,1712111
+292,Ultra High Mileage,1055,89832
+292,High Frequency High Mileage,269,242328
+292,Low Frequency High Mileage,902,534100
+292,Low Frequency Low Mileage,32,848109
+292,All,2258,1714369
+293,Ultra High Mileage,1069,90901
+293,High Frequency High Mileage,236,242564
+293,Low Frequency High Mileage,901,535001
+293,Low Frequency Low Mileage,39,848148
+293,All,2245,1716614
+294,Ultra High Mileage,1092,91993
+294,High Frequency High Mileage,247,242811
+294,Low Frequency High Mileage,847,535848
+294,Low Frequency Low Mileage,27,848175
+294,All,2213,1718827
+295,Ultra High Mileage,1002,92995
+295,High Frequency High Mileage,241,243052
+295,Low Frequency High Mileage,838,536686
+295,Low Frequency Low Mileage,24,848199
+295,All,2105,1720932
+296,Ultra High Mileage,1072,94067
+296,High Frequency High Mileage,219,243271
+296,Low Frequency High Mileage,848,537534
+296,Low Frequency Low Mileage,40,848239
+296,All,2179,1723111
+297,Ultra High Mileage,1042,95109
+297,High Frequency High Mileage,200,243471
+297,Low Frequency High Mileage,771,538305
+297,Low Frequency Low Mileage,19,848258
+297,All,2032,1725143
+298,Ultra High Mileage,1006,96115
+298,High Frequency High Mileage,211,243682
+298,Low Frequency High Mileage,800,539105
+298,Low Frequency Low Mileage,26,848284
+298,All,2043,1727186
+299,Ultra High Mileage,998,97113
+299,High Frequency High Mileage,196,243878
+299,Low Frequency High Mileage,725,539830
+299,Low Frequency Low Mileage,27,848311
+299,All,1946,1729132
+300,Ultra High Mileage,1049,98162
+300,High Frequency High Mileage,189,244067
+300,Low Frequency High Mileage,707,540537
+300,Low Frequency Low Mileage,28,848339
+300,All,1973,1731105
+301,Ultra High Mileage,1004,99166
+301,High Frequency High Mileage,199,244266
+301,Low Frequency High Mileage,730,541267
+301,Low Frequency Low Mileage,19,848358
+301,All,1952,1733057
+302,Ultra High Mileage,1003,100169
+302,High Frequency High Mileage,161,244427
+302,Low Frequency High Mileage,732,541999
+302,Low Frequency Low Mileage,20,848378
+302,All,1916,1734973
+303,Ultra High Mileage,964,101133
+303,High Frequency High Mileage,174,244601
+303,Low Frequency High Mileage,670,542669
+303,Low Frequency Low Mileage,25,848403
+303,All,1833,1736806
+304,Ultra High Mileage,930,102063
+304,High Frequency High Mileage,170,244771
+304,Low Frequency High Mileage,660,543329
+304,Low Frequency Low Mileage,15,848418
+304,All,1775,1738581
+305,Ultra High Mileage,921,102984
+305,High Frequency High Mileage,167,244938
+305,Low Frequency High Mileage,634,543963
+305,Low Frequency Low Mileage,20,848438
+305,All,1742,1740323
+306,Ultra High Mileage,969,103953
+306,High Frequency High Mileage,155,245093
+306,Low Frequency High Mileage,627,544590
+306,Low Frequency Low Mileage,12,848450
+306,All,1763,1742086
+307,Ultra High Mileage,938,104891
+307,High Frequency High Mileage,137,245230
+307,Low Frequency High Mileage,587,545177
+307,Low Frequency Low Mileage,23,848473
+307,All,1685,1743771
+308,Ultra High Mileage,984,105875
+308,High Frequency High Mileage,168,245398
+308,Low Frequency High Mileage,608,545785
+308,Low Frequency Low Mileage,19,848492
+308,All,1779,1745550
+309,Ultra High Mileage,925,106800
+309,High Frequency High Mileage,145,245543
+309,Low Frequency High Mileage,618,546403
+309,Low Frequency Low Mileage,23,848515
+309,All,1711,1747261
+310,Ultra High Mileage,955,107755
+310,High Frequency High Mileage,122,245665
+310,Low Frequency High Mileage,552,546955
+310,Low Frequency Low Mileage,13,848528
+310,All,1642,1748903
+311,Ultra High Mileage,881,108636
+311,High Frequency High Mileage,130,245795
+311,Low Frequency High Mileage,521,547476
+311,Low Frequency Low Mileage,16,848544
+311,All,1548,1750451
+312,Ultra High Mileage,919,109555
+312,High Frequency High Mileage,103,245898
+312,Low Frequency High Mileage,532,548008
+312,Low Frequency Low Mileage,13,848557
+312,All,1567,1752018
+313,Ultra High Mileage,960,110515
+313,High Frequency High Mileage,106,246004
+313,Low Frequency High Mileage,508,548516
+313,Low Frequency Low Mileage,15,848572
+313,All,1589,1753607
+314,Ultra High Mileage,928,111443
+314,High Frequency High Mileage,92,246096
+314,Low Frequency High Mileage,484,549000
+314,Low Frequency Low Mileage,19,848591
+314,All,1523,1755130
+315,Ultra High Mileage,864,112307
+315,High Frequency High Mileage,111,246207
+315,Low Frequency High Mileage,450,549450
+315,Low Frequency Low Mileage,8,848599
+315,All,1433,1756563
+316,Ultra High Mileage,854,113161
+316,High Frequency High Mileage,108,246315
+316,Low Frequency High Mileage,494,549944
+316,Low Frequency Low Mileage,8,848607
+316,All,1464,1758027
+317,Ultra High Mileage,878,114039
+317,High Frequency High Mileage,95,246410
+317,Low Frequency High Mileage,430,550374
+317,Low Frequency Low Mileage,13,848620
+317,All,1416,1759443
+318,Ultra High Mileage,854,114893
+318,High Frequency High Mileage,75,246485
+318,Low Frequency High Mileage,453,550827
+318,Low Frequency Low Mileage,11,848631
+318,All,1393,1760836
+319,Ultra High Mileage,886,115779
+319,High Frequency High Mileage,103,246588
+319,Low Frequency High Mileage,441,551268
+319,Low Frequency Low Mileage,9,848640
+319,All,1439,1762275
+320,Ultra High Mileage,854,116633
+320,High Frequency High Mileage,61,246649
+320,Low Frequency High Mileage,405,551673
+320,Low Frequency Low Mileage,9,848649
+320,All,1329,1763604
+321,Ultra High Mileage,811,117444
+321,High Frequency High Mileage,94,246743
+321,Low Frequency High Mileage,419,552092
+321,Low Frequency Low Mileage,14,848663
+321,All,1338,1764942
+322,Ultra High Mileage,828,118272
+322,High Frequency High Mileage,71,246814
+322,Low Frequency High Mileage,392,552484
+322,Low Frequency Low Mileage,13,848676
+322,All,1304,1766246
+323,Ultra High Mileage,812,119084
+323,High Frequency High Mileage,59,246873
+323,Low Frequency High Mileage,403,552887
+323,Low Frequency Low Mileage,10,848686
+323,All,1284,1767530
+324,Ultra High Mileage,837,119921
+324,High Frequency High Mileage,87,246960
+324,Low Frequency High Mileage,386,553273
+324,Low Frequency Low Mileage,10,848696
+324,All,1320,1768850
+325,Ultra High Mileage,801,120722
+325,High Frequency High Mileage,70,247030
+325,Low Frequency High Mileage,333,553606
+325,Low Frequency Low Mileage,11,848707
+325,All,1215,1770065
+326,Ultra High Mileage,809,121531
+326,High Frequency High Mileage,79,247109
+326,Low Frequency High Mileage,359,553965
+326,Low Frequency Low Mileage,6,848713
+326,All,1253,1771318
+327,Ultra High Mileage,760,122291
+327,High Frequency High Mileage,56,247165
+327,Low Frequency High Mileage,326,554291
+327,Low Frequency Low Mileage,8,848721
+327,All,1150,1772468
+328,Ultra High Mileage,807,123098
+328,High Frequency High Mileage,65,247230
+328,Low Frequency High Mileage,339,554630
+328,Low Frequency Low Mileage,8,848729
+328,All,1219,1773687
+329,Ultra High Mileage,759,123857
+329,High Frequency High Mileage,59,247289
+329,Low Frequency High Mileage,328,554958
+329,Low Frequency Low Mileage,16,848745
+329,All,1162,1774849
+330,Ultra High Mileage,753,124610
+330,High Frequency High Mileage,40,247329
+330,Low Frequency High Mileage,306,555264
+330,Low Frequency Low Mileage,5,848750
+330,All,1104,1775953
+331,Ultra High Mileage,722,125332
+331,High Frequency High Mileage,48,247377
+331,Low Frequency High Mileage,310,555574
+331,Low Frequency Low Mileage,8,848758
+331,All,1088,1777041
+332,Ultra High Mileage,743,126075
+332,High Frequency High Mileage,50,247427
+332,Low Frequency High Mileage,306,555880
+332,Low Frequency Low Mileage,11,848769
+332,All,1110,1778151
+333,Ultra High Mileage,740,126815
+333,High Frequency High Mileage,51,247478
+333,Low Frequency High Mileage,295,556175
+333,Low Frequency Low Mileage,12,848781
+333,All,1098,1779249
+334,Ultra High Mileage,719,127534
+334,High Frequency High Mileage,40,247518
+334,Low Frequency High Mileage,252,556427
+334,Low Frequency Low Mileage,13,848794
+334,All,1024,1780273
+335,Ultra High Mileage,685,128219
+335,High Frequency High Mileage,54,247572
+335,Low Frequency High Mileage,284,556711
+335,Low Frequency Low Mileage,10,848804
+335,All,1033,1781306
+336,Ultra High Mileage,683,128902
+336,High Frequency High Mileage,42,247614
+336,Low Frequency High Mileage,300,557011
+336,Low Frequency Low Mileage,10,848814
+336,All,1035,1782341
+337,Ultra High Mileage,681,129583
+337,High Frequency High Mileage,43,247657
+337,Low Frequency High Mileage,266,557277
+337,Low Frequency Low Mileage,8,848822
+337,All,998,1783339
+338,Ultra High Mileage,694,130277
+338,High Frequency High Mileage,33,247690
+338,Low Frequency High Mileage,256,557533
+338,Low Frequency Low Mileage,5,848827
+338,All,988,1784327
+339,Ultra High Mileage,663,130940
+339,High Frequency High Mileage,35,247725
+339,Low Frequency High Mileage,245,557778
+339,Low Frequency Low Mileage,5,848832
+339,All,948,1785275
+340,Ultra High Mileage,678,131618
+340,High Frequency High Mileage,45,247770
+340,Low Frequency High Mileage,208,557986
+340,Low Frequency Low Mileage,7,848839
+340,All,938,1786213
+341,Ultra High Mileage,690,132308
+341,High Frequency High Mileage,27,247797
+341,Low Frequency High Mileage,223,558209
+341,Low Frequency Low Mileage,8,848847
+341,All,948,1787161
+342,Ultra High Mileage,642,132950
+342,High Frequency High Mileage,33,247830
+342,Low Frequency High Mileage,243,558452
+342,Low Frequency Low Mileage,4,848851
+342,All,922,1788083
+343,Ultra High Mileage,647,133597
+343,High Frequency High Mileage,28,247858
+343,Low Frequency High Mileage,207,558659
+343,Low Frequency Low Mileage,4,848855
+343,All,886,1788969
+344,Ultra High Mileage,639,134236
+344,High Frequency High Mileage,38,247896
+344,Low Frequency High Mileage,226,558885
+344,Low Frequency Low Mileage,4,848859
+344,All,907,1789876
+345,Ultra High Mileage,614,134850
+345,High Frequency High Mileage,24,247920
+345,Low Frequency High Mileage,194,559079
+345,Low Frequency Low Mileage,7,848866
+345,All,839,1790715
+346,Ultra High Mileage,639,135489
+346,High Frequency High Mileage,31,247951
+346,Low Frequency High Mileage,206,559285
+346,Low Frequency Low Mileage,5,848871
+346,All,881,1791596
+347,Ultra High Mileage,630,136119
+347,High Frequency High Mileage,23,247974
+347,Low Frequency High Mileage,187,559472
+347,Low Frequency Low Mileage,5,848876
+347,All,845,1792441
+348,Ultra High Mileage,589,136708
+348,High Frequency High Mileage,21,247995
+348,Low Frequency High Mileage,188,559660
+348,Low Frequency Low Mileage,5,848881
+348,All,803,1793244
+349,Ultra High Mileage,598,137306
+349,High Frequency High Mileage,29,248024
+349,Low Frequency High Mileage,193,559853
+349,Low Frequency Low Mileage,4,848885
+349,All,824,1794068
+350,Ultra High Mileage,577,137883
+350,High Frequency High Mileage,17,248041
+350,Low Frequency High Mileage,209,560062
+350,Low Frequency Low Mileage,4,848889
+350,All,807,1794875
+351,Ultra High Mileage,540,138423
+351,High Frequency High Mileage,22,248063
+351,Low Frequency High Mileage,179,560241
+351,Low Frequency Low Mileage,5,848894
+351,All,746,1795621
+352,Ultra High Mileage,591,139014
+352,High Frequency High Mileage,23,248086
+352,Low Frequency High Mileage,168,560409
+352,Low Frequency Low Mileage,2,848896
+352,All,784,1796405
+353,Ultra High Mileage,552,139566
+353,High Frequency High Mileage,18,248104
+353,Low Frequency High Mileage,148,560557
+353,Low Frequency Low Mileage,5,848901
+353,All,723,1797128
+354,Ultra High Mileage,540,140106
+354,High Frequency High Mileage,23,248127
+354,Low Frequency High Mileage,165,560722
+354,Low Frequency Low Mileage,5,848906
+354,All,733,1797861
+355,Ultra High Mileage,508,140614
+355,High Frequency High Mileage,19,248146
+355,Low Frequency High Mileage,151,560873
+355,All,678,1798539
+356,Ultra High Mileage,545,141159
+356,High Frequency High Mileage,15,248161
+356,Low Frequency High Mileage,145,561018
+356,Low Frequency Low Mileage,2,848908
+356,All,707,1799246
+357,Ultra High Mileage,519,141678
+357,High Frequency High Mileage,12,248173
+357,Low Frequency High Mileage,161,561179
+357,Low Frequency Low Mileage,1,848909
+357,All,693,1799939
+358,Ultra High Mileage,521,142199
+358,High Frequency High Mileage,19,248192
+358,Low Frequency High Mileage,151,561330
+358,Low Frequency Low Mileage,4,848913
+358,All,695,1800634
+359,Ultra High Mileage,490,142689
+359,High Frequency High Mileage,20,248212
+359,Low Frequency High Mileage,122,561452
+359,Low Frequency Low Mileage,5,848918
+359,All,637,1801271
+360,Ultra High Mileage,458,143147
+360,High Frequency High Mileage,18,248230
+360,Low Frequency High Mileage,111,561563
+360,Low Frequency Low Mileage,2,848920
+360,All,589,1801860
+361,Ultra High Mileage,485,143632
+361,High Frequency High Mileage,10,248240
+361,Low Frequency High Mileage,120,561683
+361,Low Frequency Low Mileage,4,848924
+361,All,619,1802479
+362,Ultra High Mileage,481,144113
+362,High Frequency High Mileage,13,248253
+362,Low Frequency High Mileage,124,561807
+362,Low Frequency Low Mileage,6,848930
+362,All,624,1803103
+363,Ultra High Mileage,477,144590
+363,High Frequency High Mileage,10,248263
+363,Low Frequency High Mileage,126,561933
+363,Low Frequency Low Mileage,2,848932
+363,All,615,1803718
+364,Ultra High Mileage,440,145030
+364,High Frequency High Mileage,15,248278
+364,Low Frequency High Mileage,99,562032
+364,Low Frequency Low Mileage,1,848933
+364,All,555,1804273
+365,Ultra High Mileage,426,145456
+365,High Frequency High Mileage,11,248289
+365,Low Frequency High Mileage,112,562144
+365,Low Frequency Low Mileage,3,848936
+365,All,552,1804825
+366,Ultra High Mileage,430,145886
+366,High Frequency High Mileage,6,248295
+366,Low Frequency High Mileage,114,562258
+366,Low Frequency Low Mileage,4,848940
+366,All,554,1805379
+367,Ultra High Mileage,455,146341
+367,High Frequency High Mileage,6,248301
+367,Low Frequency High Mileage,110,562368
+367,All,571,1805950
+368,Ultra High Mileage,426,146767
+368,High Frequency High Mileage,11,248312
+368,Low Frequency High Mileage,101,562469
+368,Low Frequency Low Mileage,2,848942
+368,All,540,1806490
+369,Ultra High Mileage,424,147191
+369,High Frequency High Mileage,11,248323
+369,Low Frequency High Mileage,97,562566
+369,Low Frequency Low Mileage,3,848945
+369,All,535,1807025
+370,Ultra High Mileage,414,147605
+370,High Frequency High Mileage,6,248329
+370,Low Frequency High Mileage,89,562655
+370,All,509,1807534
+371,Ultra High Mileage,401,148006
+371,High Frequency High Mileage,12,248341
+371,Low Frequency High Mileage,105,562760
+371,Low Frequency Low Mileage,3,848948
+371,All,521,1808055
+372,Ultra High Mileage,369,148375
+372,High Frequency High Mileage,11,248352
+372,Low Frequency High Mileage,105,562865
+372,Low Frequency Low Mileage,6,848954
+372,All,491,1808546
+373,Ultra High Mileage,390,148765
+373,High Frequency High Mileage,9,248361
+373,Low Frequency High Mileage,100,562965
+373,Low Frequency Low Mileage,2,848956
+373,All,501,1809047
+374,Ultra High Mileage,370,149135
+374,High Frequency High Mileage,7,248368
+374,Low Frequency High Mileage,76,563041
+374,Low Frequency Low Mileage,2,848958
+374,All,455,1809502
+375,Ultra High Mileage,356,149491
+375,High Frequency High Mileage,6,248374
+375,Low Frequency High Mileage,87,563128
+375,Low Frequency Low Mileage,4,848962
+375,All,453,1809955
+376,Ultra High Mileage,330,149821
+376,High Frequency High Mileage,8,248382
+376,Low Frequency High Mileage,88,563216
+376,Low Frequency Low Mileage,2,848964
+376,All,428,1810383
+377,Ultra High Mileage,340,150161
+377,High Frequency High Mileage,6,248388
+377,Low Frequency High Mileage,73,563289
+377,Low Frequency Low Mileage,3,848967
+377,All,422,1810805
+378,Ultra High Mileage,335,150496
+378,High Frequency High Mileage,3,248391
+378,Low Frequency High Mileage,71,563360
+378,Low Frequency Low Mileage,1,848968
+378,All,410,1811215
+379,Ultra High Mileage,363,150859
+379,High Frequency High Mileage,2,248393
+379,Low Frequency High Mileage,81,563441
+379,Low Frequency Low Mileage,2,848970
+379,All,448,1811663
+380,Ultra High Mileage,269,151128
+380,High Frequency High Mileage,2,248395
+380,Low Frequency High Mileage,68,563509
+380,Low Frequency Low Mileage,1,848971
+380,All,340,1812003
+381,Ultra High Mileage,328,151456
+381,High Frequency High Mileage,1,248396
+381,Low Frequency High Mileage,67,563576
+381,Low Frequency Low Mileage,3,848974
+381,All,399,1812402
+382,Ultra High Mileage,314,151770
+382,High Frequency High Mileage,1,248397
+382,Low Frequency High Mileage,52,563628
+382,Low Frequency Low Mileage,1,848975
+382,All,368,1812770
+383,Ultra High Mileage,289,152059
+383,High Frequency High Mileage,3,248400
+383,Low Frequency High Mileage,64,563692
+383,Low Frequency Low Mileage,2,848977
+383,All,358,1813128
+384,Ultra High Mileage,293,152352
+384,High Frequency High Mileage,4,248404
+384,Low Frequency High Mileage,56,563748
+384,Low Frequency Low Mileage,2,848979
+384,All,355,1813483
+385,Ultra High Mileage,294,152646
+385,High Frequency High Mileage,4,248408
+385,Low Frequency High Mileage,65,563813
+385,Low Frequency Low Mileage,2,848981
+385,All,365,1813848
+386,Ultra High Mileage,293,152939
+386,High Frequency High Mileage,2,248410
+386,Low Frequency High Mileage,68,563881
+386,Low Frequency Low Mileage,1,848982
+386,All,364,1814212
+387,Ultra High Mileage,249,153188
+387,High Frequency High Mileage,6,248416
+387,Low Frequency High Mileage,68,563949
+387,Low Frequency Low Mileage,3,848985
+387,All,326,1814538
+388,Ultra High Mileage,289,153477
+388,High Frequency High Mileage,2,248418
+388,Low Frequency High Mileage,55,564004
+388,Low Frequency Low Mileage,2,848987
+388,All,348,1814886
+389,Ultra High Mileage,286,153763
+389,High Frequency High Mileage,4,248422
+389,Low Frequency High Mileage,51,564055
+389,Low Frequency Low Mileage,2,848989
+389,All,343,1815229
+390,Ultra High Mileage,282,154045
+390,High Frequency High Mileage,2,248424
+390,Low Frequency High Mileage,56,564111
+390,Low Frequency Low Mileage,1,848990
+390,All,341,1815570
+391,Ultra High Mileage,271,154316
+391,High Frequency High Mileage,7,248431
+391,Low Frequency High Mileage,52,564163
+391,Low Frequency Low Mileage,2,848992
+391,All,332,1815902
+392,Ultra High Mileage,260,154576
+392,High Frequency High Mileage,1,248432
+392,Low Frequency High Mileage,57,564220
+392,Low Frequency Low Mileage,2,848994
+392,All,320,1816222
+393,Ultra High Mileage,258,154834
+393,High Frequency High Mileage,3,248435
+393,Low Frequency High Mileage,58,564278
+393,Low Frequency Low Mileage,2,848996
+393,All,321,1816543
+394,Ultra High Mileage,216,155050
+394,High Frequency High Mileage,3,248438
+394,Low Frequency High Mileage,46,564324
+394,Low Frequency Low Mileage,2,848998
+394,All,267,1816810
+395,Ultra High Mileage,244,155294
+395,High Frequency High Mileage,3,248441
+395,Low Frequency High Mileage,55,564379
+395,All,302,1817112
+396,Ultra High Mileage,253,155547
+396,High Frequency High Mileage,2,248443
+396,Low Frequency High Mileage,35,564414
+396,Low Frequency Low Mileage,1,848999
+396,All,291,1817403
+397,Ultra High Mileage,243,155790
+397,High Frequency High Mileage,2,248445
+397,Low Frequency High Mileage,42,564456
+397,Low Frequency Low Mileage,1,849000
+397,All,288,1817691
+398,Ultra High Mileage,218,156008
+398,High Frequency High Mileage,2,248447
+398,Low Frequency High Mileage,42,564498
+398,All,262,1817953
+399,Ultra High Mileage,223,156231
+399,High Frequency High Mileage,2,248449
+399,Low Frequency High Mileage,34,564532
+399,Low Frequency Low Mileage,1,849001
+399,All,260,1818213
+400,Ultra High Mileage,239,156470
+400,High Frequency High Mileage,1,248450
+400,Low Frequency High Mileage,34,564566
+400,Low Frequency Low Mileage,1,849002
+400,All,275,1818488
+401,Ultra High Mileage,205,156675
+401,High Frequency High Mileage,4,248454
+401,Low Frequency High Mileage,31,564597
+401,All,240,1818728
+402,Ultra High Mileage,219,156894
+402,High Frequency High Mileage,1,248455
+402,Low Frequency High Mileage,34,564631
+402,All,254,1818982
+403,Ultra High Mileage,175,157069
+403,High Frequency High Mileage,3,248458
+403,Low Frequency High Mileage,34,564665
+403,Low Frequency Low Mileage,1,849003
+403,All,213,1819195
+404,Ultra High Mileage,202,157271
+404,High Frequency High Mileage,1,248459
+404,Low Frequency High Mileage,32,564697
+404,Low Frequency Low Mileage,1,849004
+404,All,236,1819431
+405,Ultra High Mileage,180,157451
+405,High Frequency High Mileage,1,248460
+405,Low Frequency High Mileage,33,564730
+405,Low Frequency Low Mileage,1,849005
+405,All,215,1819646
+406,Ultra High Mileage,198,157649
+406,High Frequency High Mileage,2,248462
+406,Low Frequency High Mileage,29,564759
+406,Low Frequency Low Mileage,1,849006
+406,All,230,1819876
+407,Ultra High Mileage,179,157828
+407,High Frequency High Mileage,2,248464
+407,Low Frequency High Mileage,40,564799
+407,Low Frequency Low Mileage,1,849007
+407,All,222,1820098
+408,Ultra High Mileage,168,157996
+408,High Frequency High Mileage,2,248466
+408,Low Frequency High Mileage,31,564830
+408,Low Frequency Low Mileage,3,849010
+408,All,204,1820302
+409,Ultra High Mileage,142,158138
+409,High Frequency High Mileage,1,248467
+409,Low Frequency High Mileage,38,564868
+409,Low Frequency Low Mileage,1,849011
+409,All,182,1820484
+410,Ultra High Mileage,182,158320
+410,Low Frequency High Mileage,24,564892
+410,Low Frequency Low Mileage,1,849012
+410,All,207,1820691
+411,Ultra High Mileage,173,158493
+411,High Frequency High Mileage,2,248469
+411,Low Frequency High Mileage,33,564925
+411,All,208,1820899
+412,Ultra High Mileage,163,158656
+412,Low Frequency High Mileage,30,564955
+412,All,193,1821092
+413,Ultra High Mileage,168,158824
+413,High Frequency High Mileage,3,248472
+413,Low Frequency High Mileage,22,564977
+413,All,193,1821285
+414,Ultra High Mileage,155,158979
+414,High Frequency High Mileage,1,248473
+414,Low Frequency High Mileage,23,565000
+414,All,179,1821464
+415,Ultra High Mileage,165,159144
+415,High Frequency High Mileage,1,248474
+415,Low Frequency High Mileage,27,565027
+415,All,193,1821657
+416,Ultra High Mileage,145,159289
+416,High Frequency High Mileage,1,248475
+416,Low Frequency High Mileage,23,565050
+416,Low Frequency Low Mileage,2,849014
+416,All,171,1821828
+417,Ultra High Mileage,161,159450
+417,High Frequency High Mileage,1,248476
+417,Low Frequency High Mileage,30,565080
+417,Low Frequency Low Mileage,1,849015
+417,All,193,1822021
+418,Ultra High Mileage,101,159551
+418,Low Frequency High Mileage,30,565110
+418,Low Frequency Low Mileage,1,849016
+418,All,132,1822153
+419,Ultra High Mileage,136,159687
+419,Low Frequency High Mileage,20,565130
+419,All,156,1822309
+420,Ultra High Mileage,148,159835
+420,High Frequency High Mileage,1,248477
+420,Low Frequency High Mileage,29,565159
+420,Low Frequency Low Mileage,1,849017
+420,All,179,1822488
+421,Ultra High Mileage,134,159969
+421,Low Frequency High Mileage,21,565180
+421,All,155,1822643
+422,Ultra High Mileage,129,160098
+422,High Frequency High Mileage,1,248478
+422,Low Frequency High Mileage,11,565191
+422,Low Frequency Low Mileage,1,849018
+422,All,142,1822785
+423,Ultra High Mileage,93,160191
+423,High Frequency High Mileage,1,248479
+423,Low Frequency High Mileage,18,565209
+423,All,112,1822897
+424,Ultra High Mileage,116,160307
+424,Low Frequency High Mileage,21,565230
+424,All,137,1823034
+425,Ultra High Mileage,130,160437
+425,High Frequency High Mileage,2,248481
+425,Low Frequency High Mileage,25,565255
+425,All,157,1823191
+426,Ultra High Mileage,119,160556
+426,Low Frequency High Mileage,16,565271
+426,All,135,1823326
+427,Ultra High Mileage,100,160656
+427,Low Frequency High Mileage,18,565289
+427,Low Frequency Low Mileage,1,849019
+427,All,119,1823445
+428,Ultra High Mileage,116,160772
+428,Low Frequency High Mileage,18,565307
+428,All,134,1823579
+429,Ultra High Mileage,123,160895
+429,High Frequency High Mileage,1,248482
+429,Low Frequency High Mileage,19,565326
+429,Low Frequency Low Mileage,1,849020
+429,All,144,1823723
+430,Ultra High Mileage,100,160995
+430,Low Frequency High Mileage,16,565342
+430,All,116,1823839
+431,Ultra High Mileage,93,161088
+431,Low Frequency High Mileage,18,565360
+431,All,111,1823950
+432,Ultra High Mileage,103,161191
+432,Low Frequency High Mileage,19,565379
+432,Low Frequency Low Mileage,1,849021
+432,All,123,1824073
+433,Ultra High Mileage,118,161309
+433,Low Frequency High Mileage,13,565392
+433,All,131,1824204
+434,Ultra High Mileage,95,161404
+434,High Frequency High Mileage,1,248483
+434,Low Frequency High Mileage,16,565408
+434,All,112,1824316
+435,Ultra High Mileage,81,161485
+435,Low Frequency High Mileage,17,565425
+435,All,98,1824414
+436,Ultra High Mileage,103,161588
+436,Low Frequency High Mileage,13,565438
+436,All,116,1824530
+437,Ultra High Mileage,92,161680
+437,High Frequency High Mileage,2,248485
+437,Low Frequency High Mileage,12,565450
+437,All,106,1824636
+438,Ultra High Mileage,66,161746
+438,High Frequency High Mileage,2,248487
+438,Low Frequency High Mileage,15,565465
+438,Low Frequency Low Mileage,1,849022
+438,All,84,1824720
+439,Ultra High Mileage,79,161825
+439,High Frequency High Mileage,2,248489
+439,Low Frequency High Mileage,11,565476
+439,All,92,1824812
+440,Ultra High Mileage,76,161901
+440,Low Frequency High Mileage,21,565497
+440,All,97,1824909
+441,Ultra High Mileage,83,161984
+441,High Frequency High Mileage,1,248490
+441,Low Frequency High Mileage,20,565517
+441,Low Frequency Low Mileage,1,849023
+441,All,105,1825014
+442,Ultra High Mileage,64,162048
+442,Low Frequency High Mileage,8,565525
+442,Low Frequency Low Mileage,1,849024
+442,All,73,1825087
+443,Ultra High Mileage,72,162120
+443,High Frequency High Mileage,2,248492
+443,Low Frequency High Mileage,15,565540
+443,All,89,1825176
+444,Ultra High Mileage,84,162204
+444,High Frequency High Mileage,1,248493
+444,Low Frequency High Mileage,8,565548
+444,All,93,1825269
+445,Ultra High Mileage,60,162264
+445,Low Frequency High Mileage,9,565557
+445,All,69,1825338
+446,Ultra High Mileage,77,162341
+446,High Frequency High Mileage,1,248494
+446,Low Frequency High Mileage,13,565570
+446,All,91,1825429
+447,Ultra High Mileage,70,162411
+447,Low Frequency High Mileage,9,565579
+447,All,79,1825508
+448,Ultra High Mileage,58,162469
+448,Low Frequency High Mileage,12,565591
+448,All,70,1825578
+449,Ultra High Mileage,71,162540
+449,Low Frequency High Mileage,12,565603
+449,All,83,1825661
+450,Ultra High Mileage,58,162598
+450,Low Frequency High Mileage,10,565613
+450,All,68,1825729
+451,Ultra High Mileage,63,162661
+451,Low Frequency High Mileage,11,565624
+451,All,74,1825803
+452,Ultra High Mileage,66,162727
+452,High Frequency High Mileage,1,248495
+452,Low Frequency High Mileage,13,565637
+452,All,80,1825883
+453,Ultra High Mileage,48,162775
+453,Low Frequency High Mileage,8,565645
+453,All,56,1825939
+454,Ultra High Mileage,71,162846
+454,Low Frequency High Mileage,7,565652
+454,All,78,1826017
+455,Ultra High Mileage,44,162890
+455,Low Frequency High Mileage,11,565663
+455,All,55,1826072
+456,Ultra High Mileage,53,162943
+456,Low Frequency High Mileage,10,565673
+456,All,63,1826135
+457,Ultra High Mileage,53,162996
+457,Low Frequency High Mileage,4,565677
+457,All,57,1826192
+458,Ultra High Mileage,41,163037
+458,Low Frequency High Mileage,9,565686
+458,Low Frequency Low Mileage,1,849025
+458,All,51,1826243
+459,Ultra High Mileage,54,163091
+459,Low Frequency High Mileage,9,565695
+459,All,63,1826306
+460,Ultra High Mileage,55,163146
+460,Low Frequency High Mileage,6,565701
+460,All,61,1826367
+461,Ultra High Mileage,52,163198
+461,Low Frequency High Mileage,10,565711
+461,Low Frequency Low Mileage,1,849026
+461,All,63,1826430
+462,Ultra High Mileage,40,163238
+462,Low Frequency High Mileage,4,565715
+462,All,44,1826474
+463,Ultra High Mileage,46,163284
+463,Low Frequency High Mileage,6,565721
+463,All,52,1826526
+464,Ultra High Mileage,38,163322
+464,Low Frequency High Mileage,6,565727
+464,All,44,1826570
+465,Ultra High Mileage,31,163353
+465,Low Frequency High Mileage,9,565736
+465,All,40,1826610
+466,Ultra High Mileage,47,163400
+466,Low Frequency High Mileage,10,565746
+466,All,57,1826667
+467,Ultra High Mileage,45,163445
+467,Low Frequency High Mileage,10,565756
+467,All,55,1826722
+468,Ultra High Mileage,29,163474
+468,Low Frequency High Mileage,7,565763
+468,All,36,1826758
+469,Ultra High Mileage,48,163522
+469,Low Frequency High Mileage,7,565770
+469,All,55,1826813
+470,Ultra High Mileage,43,163565
+470,Low Frequency High Mileage,6,565776
+470,All,49,1826862
+471,Ultra High Mileage,45,163610
+471,Low Frequency High Mileage,10,565786
+471,All,55,1826917
+472,Ultra High Mileage,26,163636
+472,Low Frequency High Mileage,4,565790
+472,All,30,1826947
+473,Ultra High Mileage,33,163669
+473,Low Frequency High Mileage,3,565793
+473,All,36,1826983
+474,Ultra High Mileage,29,163698
+474,Low Frequency High Mileage,3,565796
+474,All,32,1827015
+475,Ultra High Mileage,28,163726
+475,Low Frequency High Mileage,5,565801
+475,All,33,1827048
+476,Ultra High Mileage,24,163750
+476,Low Frequency High Mileage,6,565807
+476,All,30,1827078
+477,Ultra High Mileage,35,163785
+477,Low Frequency High Mileage,3,565810
+477,All,38,1827116
+478,Ultra High Mileage,35,163820
+478,Low Frequency High Mileage,5,565815
+478,All,40,1827156
+479,Ultra High Mileage,24,163844
+479,Low Frequency High Mileage,7,565822
+479,All,31,1827187
+480,Ultra High Mileage,28,163872
+480,Low Frequency High Mileage,6,565828
+480,All,34,1827221
+481,Ultra High Mileage,33,163905
+481,High Frequency High Mileage,1,248496
+481,Low Frequency High Mileage,7,565835
+481,All,41,1827262
+482,Ultra High Mileage,33,163938
+482,Low Frequency High Mileage,4,565839
+482,All,37,1827299
+483,Ultra High Mileage,29,163967
+483,Low Frequency High Mileage,6,565845
+483,All,35,1827334
+484,Ultra High Mileage,22,163989
+484,Low Frequency High Mileage,2,565847
+484,All,24,1827358
+485,Ultra High Mileage,28,164017
+485,High Frequency High Mileage,1,248497
+485,Low Frequency High Mileage,4,565851
+485,All,33,1827391
+486,Ultra High Mileage,25,164042
+486,Low Frequency High Mileage,4,565855
+486,All,29,1827420
+487,Ultra High Mileage,28,164070
+487,Low Frequency High Mileage,5,565860
+487,All,33,1827453
+488,Ultra High Mileage,34,164104
+488,Low Frequency High Mileage,5,565865
+488,All,39,1827492
+489,Ultra High Mileage,21,164125
+489,Low Frequency High Mileage,2,565867
+489,Low Frequency Low Mileage,1,849027
+489,All,24,1827516
+490,Ultra High Mileage,29,164154
+490,Low Frequency High Mileage,2,565869
+490,All,31,1827547
+491,Ultra High Mileage,13,164167
+491,High Frequency High Mileage,1,248498
+491,All,14,1827561
+492,Ultra High Mileage,37,164204
+492,Low Frequency High Mileage,4,565873
+492,All,41,1827602
+493,Ultra High Mileage,22,164226
+493,Low Frequency High Mileage,4,565877
+493,All,26,1827628
+494,Ultra High Mileage,18,164244
+494,Low Frequency High Mileage,9,565886
+494,All,27,1827655
+495,Ultra High Mileage,25,164269
+495,Low Frequency High Mileage,3,565889
+495,All,28,1827683
+496,Ultra High Mileage,22,164291
+496,Low Frequency High Mileage,2,565891
+496,All,24,1827707
+497,Ultra High Mileage,21,164312
+497,Low Frequency High Mileage,3,565894
+497,All,24,1827731
+498,Ultra High Mileage,24,164336
+498,Low Frequency High Mileage,5,565899
+498,All,29,1827760
+499,Ultra High Mileage,18,164354
+499,Low Frequency High Mileage,8,565907
+499,Low Frequency Low Mileage,1,849028
+499,All,27,1827787
+500,Ultra High Mileage,16,164370
+500,Low Frequency High Mileage,4,565911
+500,All,20,1827807
+501,Ultra High Mileage,18,164388
+501,Low Frequency High Mileage,2,565913
+501,All,20,1827827
+502,Ultra High Mileage,17,164405
+502,Low Frequency High Mileage,4,565917
+502,All,21,1827848
+503,Ultra High Mileage,11,164416
+503,Low Frequency High Mileage,2,565919
+503,All,13,1827861
+504,Ultra High Mileage,15,164431
+504,Low Frequency High Mileage,2,565921
+504,All,17,1827878
+505,Ultra High Mileage,13,164444
+505,Low Frequency High Mileage,5,565926
+505,Low Frequency Low Mileage,1,849029
+505,All,19,1827897
+506,Ultra High Mileage,12,164456
+506,Low Frequency High Mileage,5,565931
+506,All,17,1827914
+507,Ultra High Mileage,16,164472
+507,Low Frequency High Mileage,3,565934
+507,All,19,1827933
+508,Ultra High Mileage,22,164494
+508,Low Frequency High Mileage,4,565938
+508,All,26,1827959
+509,Ultra High Mileage,11,164505
+509,Low Frequency High Mileage,2,565940
+509,All,13,1827972
+510,Ultra High Mileage,7,164512
+510,Low Frequency High Mileage,2,565942
+510,All,9,1827981
+511,Ultra High Mileage,10,164522
+511,High Frequency High Mileage,1,248499
+511,Low Frequency High Mileage,3,565945
+511,All,14,1827995
+512,Ultra High Mileage,9,164531
+512,Low Frequency High Mileage,2,565947
+512,All,11,1828006
+513,Ultra High Mileage,9,164540
+513,Low Frequency High Mileage,4,565951
+513,All,13,1828019
+514,Ultra High Mileage,17,164557
+514,Low Frequency High Mileage,1,565952
+514,All,18,1828037
+515,Ultra High Mileage,11,164568
+515,All,11,1828048
+516,Ultra High Mileage,17,164585
+516,Low Frequency High Mileage,3,565955
+516,All,20,1828068
+517,Ultra High Mileage,8,164593
+517,Low Frequency High Mileage,1,565956
+517,All,9,1828077
+518,Ultra High Mileage,8,164601
+518,Low Frequency High Mileage,2,565958
+518,All,10,1828087
+519,Ultra High Mileage,5,164606
+519,Low Frequency High Mileage,1,565959
+519,All,6,1828093
+520,Ultra High Mileage,8,164614
+520,Low Frequency High Mileage,5,565964
+520,All,13,1828106
+521,Ultra High Mileage,9,164623
+521,Low Frequency High Mileage,2,565966
+521,All,11,1828117
+522,Ultra High Mileage,8,164631
+522,Low Frequency High Mileage,1,565967
+522,All,9,1828126
+523,Ultra High Mileage,8,164639
+523,Low Frequency High Mileage,1,565968
+523,All,9,1828135
+524,Ultra High Mileage,9,164648
+524,Low Frequency High Mileage,2,565970
+524,All,11,1828146
+525,Ultra High Mileage,11,164659
+525,Low Frequency High Mileage,5,565975
+525,All,16,1828162
+526,Ultra High Mileage,10,164669
+526,Low Frequency High Mileage,2,565977
+526,All,12,1828174
+527,Ultra High Mileage,8,164677
+527,Low Frequency High Mileage,1,565978
+527,All,9,1828183
+528,Ultra High Mileage,7,164684
+528,Low Frequency High Mileage,1,565979
+528,All,8,1828191
+529,Ultra High Mileage,9,164693
+529,Low Frequency High Mileage,1,565980
+529,All,10,1828201
+530,Ultra High Mileage,13,164706
+530,Low Frequency High Mileage,2,565982
+530,All,15,1828216
+531,Ultra High Mileage,6,164712
+531,Low Frequency High Mileage,4,565986
+531,All,10,1828226
+532,Ultra High Mileage,8,164720
+532,Low Frequency High Mileage,3,565989
+532,All,11,1828237
+533,Ultra High Mileage,14,164734
+533,Low Frequency High Mileage,2,565991
+533,All,16,1828253
+534,Ultra High Mileage,7,164741
+534,Low Frequency High Mileage,1,565992
+534,All,8,1828261
+535,Ultra High Mileage,7,164748
+535,Low Frequency High Mileage,2,565994
+535,All,9,1828270
+536,Ultra High Mileage,4,164752
+536,Low Frequency High Mileage,2,565996
+536,All,6,1828276
+537,Ultra High Mileage,3,164755
+537,Low Frequency High Mileage,2,565998
+537,All,5,1828281
+538,Ultra High Mileage,7,164762
+538,Low Frequency High Mileage,2,566000
+538,All,9,1828290
+539,Ultra High Mileage,4,164766
+539,Low Frequency High Mileage,2,566002
+539,All,6,1828296
+540,Ultra High Mileage,7,164773
+540,Low Frequency High Mileage,1,566003
+540,All,8,1828304
+541,Ultra High Mileage,8,164781
+541,Low Frequency High Mileage,3,566006
+541,All,11,1828315
+542,Ultra High Mileage,5,164786
+542,Low Frequency High Mileage,1,566007
+542,All,6,1828321
+543,Ultra High Mileage,7,164793
+543,Low Frequency High Mileage,3,566010
+543,All,10,1828331
+544,Ultra High Mileage,3,164796
+544,All,3,1828334
+545,Ultra High Mileage,6,164802
+545,Low Frequency High Mileage,1,566011
+545,All,7,1828341
+546,Ultra High Mileage,4,164806
+546,Low Frequency High Mileage,2,566013
+546,All,6,1828347
+547,Ultra High Mileage,3,164809
+547,All,3,1828350
+548,Ultra High Mileage,6,164815
+548,All,6,1828356
+549,Ultra High Mileage,6,164821
+549,All,6,1828362
+550,Ultra High Mileage,7,164828
+550,Low Frequency High Mileage,1,566014
+550,All,8,1828370
+551,Ultra High Mileage,4,164832
+551,Low Frequency High Mileage,2,566016
+551,All,6,1828376
+552,Ultra High Mileage,8,164840
+552,All,8,1828384
+553,Ultra High Mileage,8,164848
+553,All,8,1828392
+554,Ultra High Mileage,4,164852
+554,Low Frequency High Mileage,1,566017
+554,All,5,1828397
+555,Ultra High Mileage,4,164856
+555,Low Frequency High Mileage,1,566018
+555,All,5,1828402
+556,Ultra High Mileage,4,164860
+556,All,4,1828406
+557,Ultra High Mileage,1,164861
+557,All,1,1828407
+558,Ultra High Mileage,5,164866
+558,All,5,1828412
+559,Ultra High Mileage,7,164873
+559,All,7,1828419
+560,Ultra High Mileage,4,164877
+560,Low Frequency High Mileage,2,566020
+560,All,6,1828425
+561,Ultra High Mileage,4,164881
+561,All,4,1828429
+562,Ultra High Mileage,1,164882
+562,All,1,1828430
+563,Ultra High Mileage,5,164887
+563,All,5,1828435
+564,Ultra High Mileage,2,164889
+564,Low Frequency High Mileage,1,566021
+564,All,3,1828438
+565,Ultra High Mileage,3,164892
+565,All,3,1828441
+566,Ultra High Mileage,2,164894
+566,Low Frequency High Mileage,1,566022
+566,All,3,1828444
+567,Ultra High Mileage,5,164899
+567,All,5,1828449
+568,Ultra High Mileage,2,164901
+568,Low Frequency High Mileage,1,566023
+568,All,3,1828452
+569,Ultra High Mileage,5,164906
+569,Low Frequency Low Mileage,1,849030
+569,All,6,1828458
+570,Ultra High Mileage,4,164910
+570,All,4,1828462
+572,Ultra High Mileage,2,164912
+572,Low Frequency High Mileage,1,566024
+572,All,3,1828465
+573,Ultra High Mileage,2,164914
+573,Low Frequency High Mileage,2,566026
+573,All,4,1828469
+574,Ultra High Mileage,3,164917
+574,Low Frequency High Mileage,1,566027
+574,All,4,1828473
+575,Ultra High Mileage,1,164918
+575,Low Frequency High Mileage,1,566028
+575,All,2,1828475
+576,Ultra High Mileage,2,164920
+576,All,2,1828477
+577,Ultra High Mileage,3,164923
+577,Low Frequency High Mileage,1,566029
+577,All,4,1828481
+578,Ultra High Mileage,2,164925
+578,All,2,1828483
+579,Ultra High Mileage,5,164930
+579,All,5,1828488
+580,Ultra High Mileage,5,164935
+580,Low Frequency High Mileage,2,566031
+580,Low Frequency Low Mileage,1,849031
+580,All,8,1828496
+581,Ultra High Mileage,5,164940
+581,Low Frequency High Mileage,2,566033
+581,All,7,1828503
+582,Ultra High Mileage,2,164942
+582,All,2,1828505
+583,Ultra High Mileage,6,164948
+583,All,6,1828511
+584,Ultra High Mileage,5,164953
+584,All,5,1828516
+585,Ultra High Mileage,1,164954
+585,Low Frequency High Mileage,1,566034
+585,All,2,1828518
+587,Ultra High Mileage,2,164956
+587,All,2,1828520
+588,Ultra High Mileage,1,164957
+588,All,1,1828521
+589,Ultra High Mileage,1,164958
+589,All,1,1828522
+590,Ultra High Mileage,1,164959
+590,Low Frequency High Mileage,1,566035
+590,All,2,1828524
+591,Ultra High Mileage,3,164962
+591,All,3,1828527
+592,Ultra High Mileage,3,164965
+592,All,3,1828530
+593,Low Frequency High Mileage,1,566036
+593,All,1,1828531
+594,Ultra High Mileage,2,164967
+594,Low Frequency Low Mileage,1,849032
+594,All,3,1828534
+596,Ultra High Mileage,4,164971
+596,All,4,1828538
+597,Ultra High Mileage,4,164975
+597,Low Frequency High Mileage,1,566037
+597,All,5,1828543
+598,Ultra High Mileage,3,164978
+598,All,3,1828546
+599,Ultra High Mileage,3,164981
+599,Low Frequency High Mileage,1,566038
+599,All,4,1828550
+600,Ultra High Mileage,3,164984
+600,Low Frequency High Mileage,1,566039
+600,All,4,1828554
+601,Ultra High Mileage,4,164988
+601,All,4,1828558
+602,Ultra High Mileage,1,164989
+602,Low Frequency High Mileage,1,566040
+602,All,2,1828560
+603,Ultra High Mileage,2,164991
+603,All,2,1828562
+604,Ultra High Mileage,2,164993
+604,All,2,1828564
+605,Ultra High Mileage,1,164994
+605,All,1,1828565
+606,Ultra High Mileage,2,164996
+606,All,2,1828567
+607,Ultra High Mileage,1,164997
+607,All,1,1828568
+608,Ultra High Mileage,1,164998
+608,All,1,1828569
+609,Ultra High Mileage,1,164999
+609,All,1,1828570
+610,Ultra High Mileage,3,165002
+610,All,3,1828573
+611,Ultra High Mileage,2,165004
+611,All,2,1828575
+612,Ultra High Mileage,1,165005
+612,All,1,1828576
+613,Ultra High Mileage,1,165006
+613,Low Frequency High Mileage,1,566041
+613,All,2,1828578
+614,Ultra High Mileage,1,165007
+614,All,1,1828579
+615,Ultra High Mileage,2,165009
+615,All,2,1828581
+616,Ultra High Mileage,2,165011
+616,Low Frequency High Mileage,1,566042
+616,All,3,1828584
+617,Low Frequency High Mileage,2,566044
+617,All,2,1828586
+618,Ultra High Mileage,2,165013
+618,All,2,1828588
+619,Low Frequency High Mileage,1,566045
+619,All,1,1828589
+620,Ultra High Mileage,2,165015
+620,All,2,1828591
+621,Ultra High Mileage,1,165016
+621,All,1,1828592
+622,Ultra High Mileage,1,165017
+622,All,1,1828593
+623,Ultra High Mileage,2,165019
+623,All,2,1828595
+624,Ultra High Mileage,2,165021
+624,All,2,1828597
+626,Ultra High Mileage,2,165023
+626,Low Frequency High Mileage,1,566046
+626,All,3,1828600
+627,Ultra High Mileage,3,165026
+627,Low Frequency High Mileage,1,566047
+627,All,4,1828604
+628,Ultra High Mileage,1,165027
+628,All,1,1828605
+629,Ultra High Mileage,1,165028
+629,All,1,1828606
+630,Ultra High Mileage,1,165029
+630,Low Frequency High Mileage,1,566048
+630,All,2,1828608
+631,Ultra High Mileage,1,165030
+631,All,1,1828609
+632,Ultra High Mileage,1,165031
+632,All,1,1828610
+633,Ultra High Mileage,2,165033
+633,Low Frequency High Mileage,1,566049
+633,All,3,1828613
+634,Ultra High Mileage,1,165034
+634,Low Frequency High Mileage,1,566050
+634,All,2,1828615
+635,Ultra High Mileage,2,165036
+635,All,2,1828617
+637,Ultra High Mileage,2,165038
+637,All,2,1828619
+638,Low Frequency High Mileage,1,566051
+638,All,1,1828620
+639,Ultra High Mileage,2,165040
+639,All,2,1828622
+640,Ultra High Mileage,3,165043
+640,All,3,1828625
+641,Ultra High Mileage,1,165044
+641,Low Frequency High Mileage,1,566052
+641,All,2,1828627
+642,Ultra High Mileage,2,165046
+642,All,2,1828629
+643,Ultra High Mileage,2,165048
+643,All,2,1828631
+646,Ultra High Mileage,1,165049
+646,All,1,1828632
+649,Ultra High Mileage,1,165050
+649,All,1,1828633
+651,Ultra High Mileage,1,165051
+651,All,1,1828634
+652,Ultra High Mileage,2,165053
+652,All,2,1828636
+653,Ultra High Mileage,1,165054
+653,All,1,1828637
+654,Ultra High Mileage,2,165056
+654,Low Frequency High Mileage,1,566053
+654,All,3,1828640
+657,Ultra High Mileage,1,165057
+657,All,1,1828641
+658,Ultra High Mileage,1,165058
+658,All,1,1828642
+660,Low Frequency High Mileage,1,566054
+660,All,1,1828643
+661,Ultra High Mileage,2,165060
+661,All,2,1828645
+663,Ultra High Mileage,1,165061
+663,All,1,1828646
+665,Ultra High Mileage,1,165062
+665,All,1,1828647
+667,Ultra High Mileage,1,165063
+667,All,1,1828648
+669,Ultra High Mileage,1,165064
+669,All,1,1828649
+670,Ultra High Mileage,1,165065
+670,All,1,1828650
+671,Ultra High Mileage,1,165066
+671,All,1,1828651
+672,Ultra High Mileage,1,165067
+672,All,1,1828652
+673,Low Frequency High Mileage,1,566055
+673,All,1,1828653
+674,Ultra High Mileage,1,165068
+674,All,1,1828654
+677,Ultra High Mileage,1,165069
+677,All,1,1828655
+678,Ultra High Mileage,1,165070
+678,All,1,1828656
+681,Ultra High Mileage,1,165071
+681,All,1,1828657
+685,Ultra High Mileage,4,165075
+685,All,4,1828661
+688,Ultra High Mileage,2,165077
+688,All,2,1828663
+689,Ultra High Mileage,2,165079
+689,All,2,1828665
+690,Ultra High Mileage,1,165080
+690,All,1,1828666
+693,Ultra High Mileage,1,165081
+693,All,1,1828667
+698,Ultra High Mileage,1,165082
+698,All,1,1828668
+701,Ultra High Mileage,1,165083
+701,All,1,1828669
+705,Ultra High Mileage,1,165084
+705,All,1,1828670
+706,Ultra High Mileage,1,165085
+706,All,1,1828671
+709,Ultra High Mileage,1,165086
+709,All,1,1828672
+717,Ultra High Mileage,1,165087
+717,All,1,1828673
+723,Ultra High Mileage,2,165089
+723,All,2,1828675
+724,Ultra High Mileage,1,165090
+724,All,1,1828676
+727,Ultra High Mileage,1,165091
+727,All,1,1828677
+729,Ultra High Mileage,1,165092
+729,All,1,1828678
+733,Ultra High Mileage,1,165093
+733,All,1,1828679
+738,Ultra High Mileage,1,165094
+738,All,1,1828680
+741,Ultra High Mileage,1,165095
+741,All,1,1828681
+744,Ultra High Mileage,2,165097
+744,All,2,1828683
+747,Low Frequency High Mileage,1,566056
+747,All,1,1828684
+753,Ultra High Mileage,1,165098
+753,All,1,1828685
+756,Ultra High Mileage,1,165099
+756,All,1,1828686
+767,Low Frequency High Mileage,1,566057
+767,All,1,1828687
+781,Ultra High Mileage,1,165100
+781,All,1,1828688
+786,Low Frequency High Mileage,1,566058
+786,All,1,1828689
+793,Ultra High Mileage,1,165101
+793,All,1,1828690
+797,Ultra High Mileage,1,165102
+797,All,1,1828691
+798,Ultra High Mileage,1,165103
+798,All,1,1828692
+804,Ultra High Mileage,1,165104
+804,All,1,1828693
+815,Ultra High Mileage,1,165105
+815,All,1,1828694
+828,Low Frequency High Mileage,1,566059
+828,All,1,1828695
+830,Ultra High Mileage,1,165106
+830,All,1,1828696
+841,Ultra High Mileage,1,165107
+841,All,1,1828697
+847,Ultra High Mileage,1,165108
+847,All,1,1828698
+856,Ultra High Mileage,1,165109
+856,All,1,1828699
+864,Ultra High Mileage,2,165111
+864,All,2,1828701
+869,Ultra High Mileage,1,165112
+869,All,1,1828702
+870,Ultra High Mileage,1,165113
+870,All,1,1828703
+873,Ultra High Mileage,1,165114
+873,All,1,1828704
+879,Ultra High Mileage,1,165115
+879,All,1,1828705
+880,Ultra High Mileage,1,165116
+880,All,1,1828706
+882,Ultra High Mileage,1,165117
+882,All,1,1828707
+884,Ultra High Mileage,1,165118
+884,All,1,1828708
+886,Ultra High Mileage,1,165119
+886,All,1,1828709
+891,Ultra High Mileage,1,165120
+891,All,1,1828710
+899,Ultra High Mileage,2,165122
+899,All,2,1828712
+900,Ultra High Mileage,2,165124
+900,All,2,1828714
+903,Ultra High Mileage,1,165125
+903,All,1,1828715
+905,Ultra High Mileage,1,165126
+905,All,1,1828716
+913,Ultra High Mileage,1,165127
+913,All,1,1828717
+914,Low Frequency High Mileage,1,566060
+914,All,1,1828718
+923,Ultra High Mileage,1,165128
+923,All,1,1828719
+941,Ultra High Mileage,1,165129
+941,All,1,1828720
+951,Ultra High Mileage,1,165130
+951,All,1,1828721
+953,Ultra High Mileage,1,165131
+953,All,1,1828722
+995,Ultra High Mileage,1,165132
+995,All,1,1828723
+1016,Ultra High Mileage,1,165133
+1016,All,1,1828724
+1071,Ultra High Mileage,1,165134
+1071,All,1,1828725
+1073,Ultra High Mileage,1,165135
+1073,All,1,1828726
+1091,Ultra High Mileage,1,165136
+1091,All,1,1828727
+1116,Ultra High Mileage,1,165137
+1116,All,1,1828728
+1149,Ultra High Mileage,1,165138
+1149,All,1,1828729
+1158,Ultra High Mileage,1,165139
+1158,All,1,1828730
+1205,Ultra High Mileage,1,165140
+1205,All,1,1828731
+1284,Ultra High Mileage,1,165141
+1284,All,1,1828732
+1319,Ultra High Mileage,1,165142
+1319,All,1,1828733
+1431,Ultra High Mileage,1,165143
+1431,All,1,1828734

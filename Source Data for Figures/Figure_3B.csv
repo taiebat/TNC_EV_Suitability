@@ -1,0 +1,65 @@
+,tech,value,mileage,year,min,max
+3Y @ 10K miles/year,ICEV,0.519434778,"10K Miles
+Annually",3 Years,0.493138481,0.558619963
+3Y @ 10K miles/year,HEV,0.444435117,"10K Miles
+Annually",3 Years,0.430235117,0.465595117
+3Y @ 10K miles/year,BEV250,0.390190333,"10K Miles
+Annually",3 Years,0.375190333,0.438190333
+3Y @ 10K miles/year,BEV100,0.219823667,"10K Miles
+Annually",3 Years,0.204823667,0.267823667
+5Y @ 10K miles/year,ICEV,0.409174778,"10K Miles
+Annually",5 Years,0.382878481,0.448359963
+5Y @ 10K miles/year,HEV,0.34560845,"10K Miles
+Annually",5 Years,0.33140845,0.36676845
+5Y @ 10K miles/year,BEV250,0.333437,"10K Miles
+Annually",5 Years,0.318437,0.381437
+5Y @ 10K miles/year,BEV100,0.183217,"10K Miles
+Annually",5 Years,0.168217,0.231217
+3Y @ 20K miles/year,ICEV,0.379318111,"20K Miles
+Annually",3 Years,0.353021815,0.418503296
+3Y @ 20K miles/year,HEV,0.31131845,"20K Miles
+Annually",3 Years,0.29711845,0.33247845
+3Y @ 20K miles/year,BEV250,0.269873667,"20K Miles
+Annually",3 Years,0.254873667,0.317873667
+3Y @ 20K miles/year,BEV100,0.178440333,"20K Miles
+Annually",3 Years,0.163440333,0.226440333
+5Y @ 20K miles/year,ICEV,0.327222578,"20K Miles
+Annually",5 Years,0.300926281,0.366407763
+5Y @ 20K miles/year,HEV,0.26421358,"20K Miles
+Annually",5 Years,0.25001358,0.28537358
+5Y @ 20K miles/year,BEV250,0.2434206,"20K Miles
+Annually",5 Years,0.2284206,0.2914206
+5Y @ 20K miles/year,BEV100,0.1620606,"20K Miles
+Annually",5 Years,0.1470606,0.2100606
+3Y @ 30K miles/year,ICEV,0.337051667,"30K Miles
+Annually",3 Years,0.31075537,0.376236852
+3Y @ 30K miles/year,HEV,0.27137225,"30K Miles
+Annually",3 Years,0.25717225,0.29253225
+3Y @ 30K miles/year,BEV250,0.235081889,"30K Miles
+Annually",3 Years,0.220081889,0.283081889
+3Y @ 30K miles/year,BEV100,0.169126333,"30K Miles
+Annually",3 Years,0.154126333,0.217126333
+5Y @ 30K miles/year,ICEV,0.308021578,"30K Miles
+Annually",5 Years,0.281725281,0.347206763
+5Y @ 30K miles/year,HEV,0.24656923,"30K Miles
+Annually",5 Years,0.23236923,0.26772923
+5Y @ 30K miles/year,BEV250,0.20687278,"30K Miles
+Annually",5 Years,0.19187278,0.25487278
+5Y @ 30K miles/year,BEV100,0.15313278,"30K Miles
+Annually",5 Years,0.13813278,0.20113278
+3Y @ 40K miles/year,ICEV,0.316645611,"40K Miles
+Annually",3 Years,0.290349315,0.355830796
+3Y @ 40K miles/year,HEV,0.251808908,"40K Miles
+Annually",3 Years,0.237608908,0.272968908
+3Y @ 40K miles/year,BEV250,0.218220333,"40K Miles
+Annually",3 Years,0.203220333,0.266220333
+3Y @ 40K miles/year,BEV100,0.165003667,"40K Miles
+Annually",3 Years,0.150003667,0.213003667
+5Y @ 40K miles/year,ICEV,0.289605878,"40K Miles
+Annually",5 Years,0.263309581,0.328791063
+5Y @ 40K miles/year,HEV,0.239162885,"40K Miles
+Annually",5 Years,0.224962885,0.260322885
+5Y @ 40K miles/year,BEV250,0.17698356,"40K Miles
+Annually",5 Years,0.16198356,0.22498356
+5Y @ 40K miles/year,BEV100,0.13667856,"40K Miles
+Annually",5 Years,0.12167856,0.18467856

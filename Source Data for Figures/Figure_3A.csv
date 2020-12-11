@@ -1,0 +1,65 @@
+,tech,value,mileage,year,min,max
+3Y @ 10K miles/year,ICEV,0.580611111,"10K Miles
+Annually",3 Years,0.554314815,0.619796296
+3Y @ 10K miles/year,HEV,0.488183333,"10K Miles
+Annually",3 Years,0.473983333,0.509343333
+3Y @ 10K miles/year,BEV250  (Pre-Subsidy),0.743143,"10K Miles
+Annually",3 Years,0.729143,0.787943
+3Y @ 10K miles/year,BEV250 (Post-Subsidy),0.409809667,"10K Miles
+Annually",3 Years,0.395809667,0.454609667
+5Y @ 10K miles/year,ICEV,0.496380578,"10K Miles
+Annually",5 Years,0.470084281,0.535565763
+5Y @ 10K miles/year,HEV,0.43835738,"10K Miles
+Annually",5 Years,0.42415738,0.45951738
+5Y @ 10K miles/year,BEV250  (Pre-Subsidy),0.5505086,"10K Miles
+Annually",5 Years,0.5365086,0.5953086
+5Y @ 10K miles/year,BEV250 (Post-Subsidy),0.3505086,"10K Miles
+Annually",5 Years,0.3365086,0.3953086
+3Y @ 20K miles/year,ICEV,0.411156278,"20K Miles
+Annually",3 Years,0.384859981,0.450341463
+3Y @ 20K miles/year,HEV,0.334442558,"20K Miles
+Annually",3 Years,0.320242558,0.355602558
+3Y @ 20K miles/year,BEV250  (Pre-Subsidy),0.447766667,"20K Miles
+Annually",3 Years,0.433766667,0.492566667
+3Y @ 20K miles/year,BEV250 (Post-Subsidy),0.2811,"20K Miles
+Annually",3 Years,0.2671,0.3259
+5Y @ 20K miles/year,ICEV,0.368957678,"20K Miles
+Annually",5 Years,0.342661381,0.408142863
+5Y @ 20K miles/year,HEV,0.319362915,"20K Miles
+Annually",5 Years,0.305162915,0.340522915
+5Y @ 20K miles/year,BEV250  (Pre-Subsidy),0.3515328,"20K Miles
+Annually",5 Years,0.3375328,0.3963328
+5Y @ 20K miles/year,BEV250 (Post-Subsidy),0.2515328,"20K Miles
+Annually",5 Years,0.2375328,0.2963328
+3Y @ 30K miles/year,ICEV,0.356893556,"30K Miles
+Annually",3 Years,0.330597259,0.396078741
+3Y @ 30K miles/year,HEV,0.285417856,"30K Miles
+Annually",3 Years,0.271217856,0.306577856
+3Y @ 30K miles/year,BEV250  (Pre-Subsidy),0.353474556,"30K Miles
+Annually",3 Years,0.339474556,0.398274556
+3Y @ 30K miles/year,BEV250 (Post-Subsidy),0.242363444,"30K Miles
+Annually",3 Years,0.228363444,0.287163444
+5Y @ 30K miles/year,ICEV,0.334392044,"30K Miles
+Annually",5 Years,0.308095748,0.37357723
+5Y @ 30K miles/year,HEV,0.279503793,"30K Miles
+Annually",5 Years,0.265303793,0.300663793
+5Y @ 30K miles/year,BEV250  (Pre-Subsidy),0.2861782,"30K Miles
+Annually",5 Years,0.2721782,0.3309782
+5Y @ 30K miles/year,BEV250 (Post-Subsidy),0.219511533,"30K Miles
+Annually",5 Years,0.205511533,0.264311533
+3Y @ 40K miles/year,ICEV,0.339549861,"40K Miles
+Annually",3 Years,0.313253565,0.378735046
+3Y @ 40K miles/year,HEV,0.262350021,"40K Miles
+Annually",3 Years,0.248150021,0.283510021
+3Y @ 40K miles/year,BEV250  (Pre-Subsidy),0.307188833,"40K Miles
+Annually",3 Years,0.293188833,0.351988833
+3Y @ 40K miles/year,BEV250 (Post-Subsidy),0.2238555,"40K Miles
+Annually",3 Years,0.2098555,0.2686555
+5Y @ 40K miles/year,ICEV,0.320133728,"40K Miles
+Annually",5 Years,0.293837431,0.359318913
+5Y @ 40K miles/year,HEV,0.262238808,"40K Miles
+Annually",5 Years,0.248038808,0.283398808
+5Y @ 40K miles/year,BEV250  (Pre-Subsidy),0.243637625,"40K Miles
+Annually",5 Years,0.229637625,0.288437625
+5Y @ 40K miles/year,BEV250 (Post-Subsidy),0.193637625,"40K Miles
+Annually",5 Years,0.179637625,0.238437625
